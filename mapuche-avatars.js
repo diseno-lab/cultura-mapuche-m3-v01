@@ -1,0 +1,1 @@
+window.MAPUCHE_AVATARS={};
