@@ -1,4694 +1,4694 @@
 window.MAPUCHE_AUDIO={
  "cm-s01": {
-  "src": "audio/locuciones-pendientes/lamina-01-pendiente.mp3",
-  "duration": 27.44,
+  "src": "audio/locuciones-m3/lamina-01.mp3",
+  "duration": 20.846,
   "cues": [
    {
-    "start": 0.35,
-    "end": 4.17,
+    "start": 0.0,
+    "end": 2.56,
     "text": "Te damos la bienvenida a la tercera y última cápsula del"
    },
    {
-    "start": 4.17,
-    "end": 9.67,
+    "start": 2.56,
+    "end": 6.96,
     "text": "Programa de Formación Intercultural de Arauco. Tras conocer la cosmovisión mapuche"
    },
    {
-    "start": 9.67,
-    "end": 15.43,
+    "start": 6.96,
+    "end": 11.56,
     "text": "y nuestra política de relacionamiento, hoy aprenderemos a identificar, proteger y"
    },
    {
-    "start": 15.43,
-    "end": 20.24,
+    "start": 11.56,
+    "end": 15.16,
     "text": "resguardar en terreno los valores culturales y sitios sagrados presentes en"
    },
    {
-    "start": 20.24,
-    "end": 25.47,
+    "start": 15.16,
+    "end": 19.7,
     "text": "nuestro patrimonio forestal. Haz clic en Comenzar para iniciar este recorrido"
    },
    {
-    "start": 25.47,
-    "end": 27.44,
+    "start": 19.7,
+    "end": 20.85,
     "text": "formativo."
    }
   ],
   "words": [
    {
     "word": "Te",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "damos",
-    "start": 0.58
+    "start": 0.16
    },
    {
     "word": "la",
-    "start": 0.97
+    "start": 0.38
    },
    {
     "word": "bienvenida",
-    "start": 1.21
+    "start": 0.52
    },
    {
     "word": "a",
-    "start": 1.86
+    "start": 1.04
    },
    {
     "word": "la",
-    "start": 2.04
+    "start": 1.14
    },
    {
     "word": "tercera",
-    "start": 2.27
+    "start": 1.18
    },
    {
     "word": "y",
-    "start": 2.77
+    "start": 1.6
    },
    {
     "word": "última",
-    "start": 2.95
+    "start": 1.7
    },
    {
     "word": "cápsula",
-    "start": 3.39
+    "start": 1.96
    },
    {
     "word": "del",
-    "start": 3.89
+    "start": 2.4
    },
    {
     "word": "Programa",
-    "start": 4.17
+    "start": 2.56
    },
    {
     "word": "de",
-    "start": 4.72
+    "start": 3.02
    },
    {
     "word": "Formación",
-    "start": 4.95
+    "start": 3.08
    },
    {
     "word": "Intercultural",
-    "start": 5.55
+    "start": 3.46
    },
    {
     "word": "de",
-    "start": 6.36
+    "start": 4.06
    },
    {
     "word": "Arauco.",
-    "start": 6.59
+    "start": 4.26
    },
    {
     "word": "Tras",
-    "start": 7.4
+    "start": 5.28
    },
    {
     "word": "conocer",
-    "start": 7.74
+    "start": 5.62
    },
    {
     "word": "la",
-    "start": 8.24
+    "start": 5.84
    },
    {
     "word": "cosmovisión",
-    "start": 8.47
+    "start": 6.04
    },
    {
     "word": "mapuche",
-    "start": 9.17
+    "start": 6.56
    },
    {
     "word": "y",
-    "start": 9.67
+    "start": 6.96
    },
    {
     "word": "nuestra",
-    "start": 9.85
+    "start": 7.28
    },
    {
     "word": "política",
-    "start": 10.34
+    "start": 7.48
    },
    {
     "word": "de",
-    "start": 10.89
+    "start": 7.88
    },
    {
     "word": "relacionamiento,",
-    "start": 11.12
+    "start": 8.1
    },
    {
     "word": "hoy",
-    "start": 12.4
+    "start": 9.36
    },
    {
     "word": "aprenderemos",
-    "start": 12.69
+    "start": 9.44
    },
    {
     "word": "a",
-    "start": 13.44
+    "start": 9.94
    },
    {
     "word": "identificar,",
-    "start": 13.63
+    "start": 10.1
    },
    {
     "word": "proteger",
-    "start": 14.7
+    "start": 11.0
    },
    {
     "word": "y",
-    "start": 15.25
+    "start": 11.36
    },
    {
     "word": "resguardar",
-    "start": 15.43
+    "start": 11.56
    },
    {
     "word": "en",
-    "start": 16.08
+    "start": 12.04
    },
    {
     "word": "terreno",
-    "start": 16.31
+    "start": 12.14
    },
    {
     "word": "los",
-    "start": 16.81
+    "start": 12.52
    },
    {
     "word": "valores",
-    "start": 17.09
+    "start": 12.84
    },
    {
     "word": "culturales",
-    "start": 17.59
+    "start": 13.08
    },
    {
     "word": "y",
-    "start": 18.24
+    "start": 13.76
    },
    {
     "word": "sitios",
-    "start": 18.42
+    "start": 13.84
    },
    {
     "word": "sagrados",
-    "start": 18.86
+    "start": 14.14
    },
    {
     "word": "presentes",
-    "start": 19.41
+    "start": 14.5
    },
    {
     "word": "en",
-    "start": 20.0
+    "start": 15.06
    },
    {
     "word": "nuestro",
-    "start": 20.24
+    "start": 15.16
    },
    {
     "word": "patrimonio",
-    "start": 20.73
+    "start": 15.3
    },
    {
     "word": "forestal.",
-    "start": 21.38
+    "start": 15.94
    },
    {
     "word": "Haz",
-    "start": 22.3
+    "start": 17.04
    },
    {
     "word": "clic",
-    "start": 22.59
+    "start": 17.36
    },
    {
     "word": "en",
-    "start": 22.92
+    "start": 17.54
    },
    {
     "word": "Comenzar",
-    "start": 23.16
+    "start": 17.8
    },
    {
     "word": "para",
-    "start": 23.7
+    "start": 18.4
    },
    {
     "word": "iniciar",
-    "start": 24.04
+    "start": 18.68
    },
    {
     "word": "este",
-    "start": 24.54
+    "start": 19.06
    },
    {
     "word": "recorrido",
-    "start": 24.87
+    "start": 19.2
    },
    {
     "word": "formativo.",
-    "start": 25.47
+    "start": 19.7
    }
   ],
-  "source": "pendiente: Loc_1"
+  "source": "Loc_1.mp3"
  },
  "cm-s02": {
-  "src": "audio/locuciones-pendientes/lamina-02-pendiente.mp3",
-  "duration": 28.39,
+  "src": "avatar/avatar-02.m4a",
+  "duration": 25.45,
   "cues": [
    {
-    "start": 0.35,
-    "end": 4.43,
+    "start": 0.0,
+    "end": 3.82,
     "text": "En Arauco resguardamos más de 37 Áreas de Alto Valor Cultural"
    },
    {
-    "start": 4.43,
-    "end": 10.39,
+    "start": 3.82,
+    "end": 9.74,
     "text": "identificadas participativamente con las comunidades mapuches vecinas. En este módulo final"
    },
    {
-    "start": 10.39,
-    "end": 15.21,
+    "start": 9.74,
+    "end": 13.4,
     "text": "conoceremos qué es un valor cultural, cómo proteger sitios sagrados y"
    },
    {
-    "start": 15.21,
-    "end": 20.61,
+    "start": 13.4,
+    "end": 19.48,
     "text": "cursos de agua, qué exigen las certificaciones internacionales FSC y PEFC,"
    },
    {
-    "start": 20.61,
-    "end": 25.53,
+    "start": 19.48,
+    "end": 23.76,
     "text": "y qué protocolo estricto seguir ante hallazgos imprevistos. Haz clic en"
    },
    {
-    "start": 25.53,
-    "end": 28.39,
+    "start": 23.76,
+    "end": 25.45,
     "text": "Siguiente para comenzar."
    }
   ],
   "words": [
    {
     "word": "En",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "Arauco",
-    "start": 0.58
+    "start": 0.68
    },
    {
     "word": "resguardamos",
-    "start": 1.03
+    "start": 1.02
    },
    {
     "word": "más",
-    "start": 1.78
+    "start": 1.6
    },
    {
     "word": "de",
-    "start": 2.07
+    "start": 1.82
    },
    {
     "word": "37",
-    "start": 2.3
+    "start": 1.98
    },
    {
     "word": "Áreas",
-    "start": 2.53
+    "start": 2.4
    },
    {
     "word": "de",
-    "start": 2.92
+    "start": 2.78
    },
    {
     "word": "Alto",
-    "start": 3.16
+    "start": 2.96
    },
    {
     "word": "Valor",
-    "start": 3.5
+    "start": 3.16
    },
    {
     "word": "Cultural",
-    "start": 3.89
+    "start": 3.38
    },
    {
     "word": "identificadas",
-    "start": 4.43
+    "start": 3.82
    },
    {
     "word": "participativamente",
-    "start": 5.24
+    "start": 4.88
    },
    {
     "word": "con",
-    "start": 6.3
+    "start": 5.84
    },
    {
     "word": "las",
-    "start": 6.59
+    "start": 6.04
    },
    {
     "word": "comunidades",
-    "start": 6.88
+    "start": 6.18
    },
    {
     "word": "mapuches",
-    "start": 7.58
+    "start": 6.66
    },
    {
     "word": "vecinas.",
-    "start": 8.12
+    "start": 7.2
    },
    {
     "word": "En",
-    "start": 8.99
+    "start": 8.44
    },
    {
     "word": "este",
-    "start": 9.22
+    "start": 8.6
    },
    {
     "word": "módulo",
-    "start": 9.56
+    "start": 8.76
    },
    {
     "word": "final",
-    "start": 10.0
+    "start": 9.08
    },
    {
     "word": "conoceremos",
-    "start": 10.39
+    "start": 9.74
    },
    {
     "word": "qué",
-    "start": 11.1
+    "start": 10.2
    },
    {
     "word": "es",
-    "start": 11.38
+    "start": 10.52
    },
    {
     "word": "un",
-    "start": 11.62
+    "start": 10.68
    },
    {
     "word": "valor",
-    "start": 11.85
+    "start": 10.78
    },
    {
     "word": "cultural,",
-    "start": 12.24
+    "start": 10.94
    },
    {
     "word": "cómo",
-    "start": 13.16
+    "start": 11.88
    },
    {
     "word": "proteger",
-    "start": 13.5
+    "start": 12.12
    },
    {
     "word": "sitios",
-    "start": 14.04
+    "start": 12.52
    },
    {
     "word": "sagrados",
-    "start": 14.48
+    "start": 12.9
    },
    {
     "word": "y",
-    "start": 15.03
+    "start": 13.24
    },
    {
     "word": "cursos",
-    "start": 15.21
+    "start": 13.4
    },
    {
     "word": "de",
-    "start": 15.65
+    "start": 13.7
    },
    {
     "word": "agua,",
-    "start": 15.89
+    "start": 13.82
    },
    {
     "word": "qué",
-    "start": 16.6
+    "start": 14.58
    },
    {
     "word": "exigen",
-    "start": 16.88
+    "start": 14.82
    },
    {
     "word": "las",
-    "start": 17.33
+    "start": 15.18
    },
    {
     "word": "certificaciones",
-    "start": 17.61
+    "start": 15.32
    },
    {
     "word": "internacionales",
-    "start": 18.52
+    "start": 15.94
    },
    {
     "word": "FSC",
-    "start": 19.43
+    "start": 16.84
    },
    {
     "word": "y",
-    "start": 19.72
+    "start": 17.5
    },
    {
     "word": "PEFC,",
-    "start": 19.9
+    "start": 18.02
    },
    {
     "word": "y",
-    "start": 20.61
+    "start": 19.48
    },
    {
     "word": "qué",
-    "start": 20.79
+    "start": 19.56
    },
    {
     "word": "protocolo",
-    "start": 21.08
+    "start": 19.68
    },
    {
     "word": "estricto",
-    "start": 21.68
+    "start": 20.16
    },
    {
     "word": "seguir",
-    "start": 22.22
+    "start": 20.58
    },
    {
     "word": "ante",
-    "start": 22.66
+    "start": 20.84
    },
    {
     "word": "hallazgos",
-    "start": 23.0
+    "start": 21.22
    },
    {
     "word": "imprevistos.",
-    "start": 23.6
+    "start": 21.6
    },
    {
     "word": "Haz",
-    "start": 24.67
+    "start": 22.94
    },
    {
     "word": "clic",
-    "start": 24.96
+    "start": 23.3
    },
    {
     "word": "en",
-    "start": 25.3
+    "start": 23.46
    },
    {
     "word": "Siguiente",
-    "start": 25.53
+    "start": 23.76
    },
    {
     "word": "para",
-    "start": 26.13
+    "start": 24.06
    },
    {
     "word": "comenzar.",
-    "start": 26.47
+    "start": 24.34
    }
   ],
-  "source": "pendiente: Loc_2"
+  "source": "Loc_2_Arauco_culturaM3_1080p.mp4"
  },
  "cm-s03": {
-  "src": "audio/locuciones-pendientes/lamina-03-pendiente.mp3",
-  "duration": 29.3,
+  "src": "audio/locuciones-m3/lamina-03.mp3",
+  "duration": 23.327,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.63,
+    "start": 0.0,
+    "end": 4.44,
     "text": "Un valor cultural abarca aquellos espacios territoriales con un profundo significado"
    },
    {
-    "start": 5.63,
-    "end": 11.87,
+    "start": 4.44,
+    "end": 10.0,
     "text": "histórico, ceremonial, espiritual o de uso tradicional para las comunidades vecinas."
    },
    {
-    "start": 11.87,
-    "end": 16.53,
+    "start": 10.0,
+    "end": 13.44,
     "text": "En el sector forestal, estos lugares se integran bajo la categoría"
    },
    {
-    "start": 16.53,
-    "end": 22.03,
+    "start": 13.44,
+    "end": 18.3,
     "text": "de Áreas de Alto Valor Cultural. Protegerlos exige una gestión diferenciada,"
    },
    {
-    "start": 22.03,
-    "end": 29.3,
+    "start": 18.3,
+    "end": 23.33,
     "text": "aplicando restricciones operativas estrictas para resguardar la identidad ancestral que albergan."
    }
   ],
   "words": [
    {
     "word": "Un",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "valor",
-    "start": 0.58
+    "start": 0.62
    },
    {
     "word": "cultural",
-    "start": 0.97
+    "start": 0.8
    },
    {
     "word": "abarca",
-    "start": 1.52
+    "start": 1.24
    },
    {
     "word": "aquellos",
-    "start": 1.96
+    "start": 1.8
    },
    {
     "word": "espacios",
-    "start": 2.51
+    "start": 2.06
    },
    {
     "word": "territoriales",
-    "start": 3.05
+    "start": 2.56
    },
    {
     "word": "con",
-    "start": 3.86
+    "start": 3.22
    },
    {
     "word": "un",
-    "start": 4.15
-   },
-   {
-    "word": "profundo",
-    "start": 4.38
-   },
-   {
-    "word": "significado",
-    "start": 4.93
-   },
-   {
-    "word": "histórico,",
-    "start": 5.63
-   },
-   {
-    "word": "ceremonial,",
-    "start": 6.6
-   },
-   {
-    "word": "espiritual",
-    "start": 7.62
-   },
-   {
-    "word": "o",
-    "start": 8.27
-   },
-   {
-    "word": "de",
-    "start": 8.45
-   },
-   {
-    "word": "uso",
-    "start": 8.69
-   },
-   {
-    "word": "tradicional",
-    "start": 8.97
-   },
-   {
-    "word": "para",
-    "start": 9.67
-   },
-   {
-    "word": "las",
-    "start": 10.01
-   },
-   {
-    "word": "comunidades",
-    "start": 10.3
-   },
-   {
-    "word": "vecinas.",
-    "start": 11.0
-   },
-   {
-    "word": "En",
-    "start": 11.87
-   },
-   {
-    "word": "el",
-    "start": 12.1
-   },
-   {
-    "word": "sector",
-    "start": 12.33
-   },
-   {
-    "word": "forestal,",
-    "start": 12.78
-   },
-   {
-    "word": "estos",
-    "start": 13.69
-   },
-   {
-    "word": "lugares",
-    "start": 14.08
-   },
-   {
-    "word": "se",
-    "start": 14.58
-   },
-   {
-    "word": "integran",
-    "start": 14.81
-   },
-   {
-    "word": "bajo",
-    "start": 15.36
-   },
-   {
-    "word": "la",
-    "start": 15.7
-   },
-   {
-    "word": "categoría",
-    "start": 15.93
-   },
-   {
-    "word": "de",
-    "start": 16.53
-   },
-   {
-    "word": "Áreas",
-    "start": 16.76
-   },
-   {
-    "word": "de",
-    "start": 17.15
-   },
-   {
-    "word": "Alto",
-    "start": 17.39
-   },
-   {
-    "word": "Valor",
-    "start": 17.72
-   },
-   {
-    "word": "Cultural.",
-    "start": 18.11
-   },
-   {
-    "word": "Protegerlos",
-    "start": 19.03
-   },
-   {
-    "word": "exige",
-    "start": 19.73
-   },
-   {
-    "word": "una",
-    "start": 20.12
-   },
-   {
-    "word": "gestión",
-    "start": 20.41
-   },
-   {
-    "word": "diferenciada,",
-    "start": 20.9
-   },
-   {
-    "word": "aplicando",
-    "start": 22.03
-   },
-   {
-    "word": "restricciones",
-    "start": 22.63
-   },
-   {
-    "word": "operativas",
-    "start": 23.43
-   },
-   {
-    "word": "estrictas",
-    "start": 24.08
-   },
-   {
-    "word": "para",
-    "start": 24.68
-   },
-   {
-    "word": "resguardar",
-    "start": 25.02
-   },
-   {
-    "word": "la",
-    "start": 25.67
-   },
-   {
-    "word": "identidad",
-    "start": 25.9
-   },
-   {
-    "word": "ancestral",
-    "start": 26.5
-   },
-   {
-    "word": "que",
-    "start": 27.1
-   },
-   {
-    "word": "albergan.",
-    "start": 27.39
-   }
-  ],
-  "source": "pendiente: Loc_3"
- },
- "cm-s04": {
-  "src": "audio/locuciones-pendientes/lamina-04-pendiente.mp3",
-  "duration": 26.11,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 4.9,
-    "text": "Arauco resguarda 37 Áreas de Alto Valor Cultural identificadas junto a"
-   },
-   {
-    "start": 4.9,
-    "end": 10.19,
-    "text": "las comunidades vecinas y sujetas a manejo restrictivo. Estos espacios abarcan"
-   },
-   {
-    "start": 10.19,
-    "end": 16.72,
-    "text": "centros ceremoniales, cementerios ancestrales y humedales de recolección medicinal indispensables para"
-   },
-   {
-    "start": 16.72,
-    "end": 21.54,
-    "text": "el bienestar comunitario. Haz clic en las categorías en pantalla para"
-   },
-   {
-    "start": 21.54,
-    "end": 26.11,
-    "text": "conocer cómo se distribuyen estas áreas protegidas."
-   }
-  ],
-  "words": [
-   {
-    "word": "Arauco",
-    "start": 0.35
-   },
-   {
-    "word": "resguarda",
-    "start": 0.79
-   },
-   {
-    "word": "37",
-    "start": 1.39
-   },
-   {
-    "word": "Áreas",
-    "start": 1.62
-   },
-   {
-    "word": "de",
-    "start": 2.01
-   },
-   {
-    "word": "Alto",
-    "start": 2.25
-   },
-   {
-    "word": "Valor",
-    "start": 2.59
-   },
-   {
-    "word": "Cultural",
-    "start": 2.98
-   },
-   {
-    "word": "identificadas",
-    "start": 3.52
-   },
-   {
-    "word": "junto",
-    "start": 4.33
-   },
-   {
-    "word": "a",
-    "start": 4.72
-   },
-   {
-    "word": "las",
-    "start": 4.9
-   },
-   {
-    "word": "comunidades",
-    "start": 5.19
-   },
-   {
-    "word": "vecinas",
-    "start": 5.89
-   },
-   {
-    "word": "y",
-    "start": 6.38
-   },
-   {
-    "word": "sujetas",
-    "start": 6.56
-   },
-   {
-    "word": "a",
-    "start": 7.06
-   },
-   {
-    "word": "manejo",
-    "start": 7.24
-   },
-   {
-    "word": "restrictivo.",
-    "start": 7.68
-   },
-   {
-    "word": "Estos",
-    "start": 8.76
-   },
-   {
-    "word": "espacios",
-    "start": 9.15
-   },
-   {
-    "word": "abarcan",
-    "start": 9.69
-   },
-   {
-    "word": "centros",
-    "start": 10.19
-   },
-   {
-    "word": "ceremoniales,",
-    "start": 10.68
-   },
-   {
-    "word": "cementerios",
-    "start": 11.81
-   },
-   {
-    "word": "ancestrales",
-    "start": 12.51
-   },
-   {
-    "word": "y",
-    "start": 13.21
-   },
-   {
-    "word": "humedales",
-    "start": 13.39
-   },
-   {
-    "word": "de",
-    "start": 13.99
-   },
-   {
-    "word": "recolección",
-    "start": 14.22
-   },
-   {
-    "word": "medicinal",
-    "start": 14.93
-   },
-   {
-    "word": "indispensables",
-    "start": 15.52
-   },
-   {
-    "word": "para",
-    "start": 16.38
-   },
-   {
-    "word": "el",
-    "start": 16.72
-   },
-   {
-    "word": "bienestar",
-    "start": 16.95
-   },
-   {
-    "word": "comunitario.",
-    "start": 17.55
-   },
-   {
-    "word": "Haz",
-    "start": 18.63
-   },
-   {
-    "word": "clic",
-    "start": 18.91
-   },
-   {
-    "word": "en",
-    "start": 19.25
-   },
-   {
-    "word": "las",
-    "start": 19.48
-   },
-   {
-    "word": "categorías",
-    "start": 19.77
-   },
-   {
-    "word": "en",
-    "start": 20.42
-   },
-   {
-    "word": "pantalla",
-    "start": 20.65
-   },
-   {
-    "word": "para",
-    "start": 21.2
-   },
-   {
-    "word": "conocer",
-    "start": 21.54
-   },
-   {
-    "word": "cómo",
-    "start": 22.03
-   },
-   {
-    "word": "se",
-    "start": 22.37
-   },
-   {
-    "word": "distribuyen",
-    "start": 22.6
-   },
-   {
-    "word": "estas",
-    "start": 23.31
-   },
-   {
-    "word": "áreas",
-    "start": 23.7
-   },
-   {
-    "word": "protegidas.",
-    "start": 24.09
-   }
-  ],
-  "source": "pendiente: Loc_4"
- },
- "cm-s05": {
-  "src": "audio/locuciones-pendientes/lamina-05-pendiente.mp3",
-  "duration": 17.66,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 6.0,
-    "text": "En nuestro entorno forestal conviven sitios de profunda significación ancestral como:"
-   },
-   {
-    "start": 6.0,
-    "end": 11.4,
-    "text": "el Eltuwe Mapu o cementerio, el Ngüllatuwe para rogativas comunitarias, el"
-   },
-   {
-    "start": 11.4,
-    "end": 15.58,
-    "text": "Paliwe para el tradicional juego de palín y los cerros sagrados"
-   },
-   {
-    "start": 15.58,
-    "end": 17.66,
-    "text": "Treng-Treng."
-   }
-  ],
-  "words": [
-   {
-    "word": "En",
-    "start": 0.35
-   },
-   {
-    "word": "nuestro",
-    "start": 0.58
-   },
-   {
-    "word": "entorno",
-    "start": 1.08
-   },
-   {
-    "word": "forestal",
-    "start": 1.57
-   },
-   {
-    "word": "conviven",
-    "start": 2.12
-   },
-   {
-    "word": "sitios",
-    "start": 2.66
-   },
-   {
-    "word": "de",
-    "start": 3.11
-   },
-   {
-    "word": "profunda",
     "start": 3.34
    },
    {
-    "word": "significación",
-    "start": 3.89
+    "word": "profundo",
+    "start": 3.48
    },
    {
-    "word": "ancestral",
-    "start": 4.69
+    "word": "significado",
+    "start": 3.86
    },
    {
-    "word": "como:",
-    "start": 5.29
-   },
-   {
-    "word": "el",
-    "start": 6.0
-   },
-   {
-    "word": "Eltuwe",
-    "start": 6.23
-   },
-   {
-    "word": "Mapu",
-    "start": 6.68
-   },
-   {
-    "word": "o",
-    "start": 7.01
-   },
-   {
-    "word": "cementerio,",
-    "start": 7.2
-   },
-   {
-    "word": "el",
-    "start": 8.22
-   },
-   {
-    "word": "Ngüllatuwe",
-    "start": 8.45
-   },
-   {
-    "word": "para",
-    "start": 9.1
-   },
-   {
-    "word": "rogativas",
-    "start": 9.44
-   },
-   {
-    "word": "comunitarias,",
-    "start": 10.04
-   },
-   {
-    "word": "el",
-    "start": 11.16
-   },
-   {
-    "word": "Paliwe",
-    "start": 11.4
-   },
-   {
-    "word": "para",
-    "start": 11.84
-   },
-   {
-    "word": "el",
-    "start": 12.18
-   },
-   {
-    "word": "tradicional",
-    "start": 12.41
-   },
-   {
-    "word": "juego",
-    "start": 13.11
-   },
-   {
-    "word": "de",
-    "start": 13.5
-   },
-   {
-    "word": "palín",
-    "start": 13.74
-   },
-   {
-    "word": "y",
-    "start": 14.13
-   },
-   {
-    "word": "los",
-    "start": 14.31
-   },
-   {
-    "word": "cerros",
-    "start": 14.6
-   },
-   {
-    "word": "sagrados",
-    "start": 15.04
-   },
-   {
-    "word": "Treng-Treng.",
-    "start": 15.58
-   }
-  ],
-  "source": "pendiente: Loc_5"
- },
- "cm-s06": {
-  "src": "audio/locuciones-pendientes/lamina-06-pendiente.mp3",
-  "duration": 27.53,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 4.75,
-    "text": "Para la cosmovisión mapuche, el agua es una fuente sagrada de"
-   },
-   {
-    "start": 4.75,
-    "end": 10.09,
-    "text": "vida habitada por espíritus protectores llamados Ngen. Los Menoko son humedales"
-   },
-   {
-    "start": 10.09,
-    "end": 15.06,
-    "text": "de vertiente ricos en hierbas medicinales, mientras que los Trayenko son"
-   },
-   {
-    "start": 15.06,
-    "end": 21.03,
-    "text": "cascadas para baños rituales. En nuestras faenas está estrictamente prohibido drenar,"
-   },
-   {
-    "start": 21.03,
-    "end": 27.53,
-    "text": "talar vegetación asociada o cruzar maquinaria pesada por estos espacios sensibles."
-   }
-  ],
-  "words": [
-   {
-    "word": "Para",
-    "start": 0.35
-   },
-   {
-    "word": "la",
-    "start": 0.69
-   },
-   {
-    "word": "cosmovisión",
-    "start": 0.92
-   },
-   {
-    "word": "mapuche,",
-    "start": 1.62
-   },
-   {
-    "word": "el",
-    "start": 2.49
-   },
-   {
-    "word": "agua",
-    "start": 2.72
-   },
-   {
-    "word": "es",
-    "start": 3.06
-   },
-   {
-    "word": "una",
-    "start": 3.3
-   },
-   {
-    "word": "fuente",
-    "start": 3.58
-   },
-   {
-    "word": "sagrada",
-    "start": 4.02
-   },
-   {
-    "word": "de",
-    "start": 4.52
-   },
-   {
-    "word": "vida",
-    "start": 4.75
-   },
-   {
-    "word": "habitada",
-    "start": 5.09
-   },
-   {
-    "word": "por",
-    "start": 5.64
-   },
-   {
-    "word": "espíritus",
-    "start": 5.92
-   },
-   {
-    "word": "protectores",
-    "start": 6.52
-   },
-   {
-    "word": "llamados",
-    "start": 7.22
-   },
-   {
-    "word": "Ngen.",
-    "start": 7.77
-   },
-   {
-    "word": "Los",
-    "start": 8.48
-   },
-   {
-    "word": "Menoko",
-    "start": 8.76
-   },
-   {
-    "word": "son",
-    "start": 9.21
-   },
-   {
-    "word": "humedales",
-    "start": 9.49
-   },
-   {
-    "word": "de",
-    "start": 10.09
-   },
-   {
-    "word": "vertiente",
-    "start": 10.32
-   },
-   {
-    "word": "ricos",
-    "start": 10.92
-   },
-   {
-    "word": "en",
-    "start": 11.31
-   },
-   {
-    "word": "hierbas",
-    "start": 11.55
-   },
-   {
-    "word": "medicinales,",
-    "start": 12.04
-   },
-   {
-    "word": "mientras",
-    "start": 13.11
-   },
-   {
-    "word": "que",
-    "start": 13.66
-   },
-   {
-    "word": "los",
-    "start": 13.95
-   },
-   {
-    "word": "Trayenko",
-    "start": 14.23
-   },
-   {
-    "word": "son",
-    "start": 14.78
-   },
-   {
-    "word": "cascadas",
-    "start": 15.06
-   },
-   {
-    "word": "para",
-    "start": 15.61
-   },
-   {
-    "word": "baños",
-    "start": 15.95
-   },
-   {
-    "word": "rituales.",
-    "start": 16.34
-   },
-   {
-    "word": "En",
-    "start": 17.26
-   },
-   {
-    "word": "nuestras",
-    "start": 17.49
-   },
-   {
-    "word": "faenas",
-    "start": 18.04
-   },
-   {
-    "word": "está",
-    "start": 18.48
-   },
-   {
-    "word": "estrictamente",
-    "start": 18.82
-   },
-   {
-    "word": "prohibido",
-    "start": 19.62
-   },
-   {
-    "word": "drenar,",
-    "start": 20.22
-   },
-   {
-    "word": "talar",
-    "start": 21.03
-   },
-   {
-    "word": "vegetación",
-    "start": 21.42
-   },
-   {
-    "word": "asociada",
-    "start": 22.07
-   },
-   {
-    "word": "o",
-    "start": 22.62
-   },
-   {
-    "word": "cruzar",
-    "start": 22.8
-   },
-   {
-    "word": "maquinaria",
-    "start": 23.24
-   },
-   {
-    "word": "pesada",
-    "start": 23.89
-   },
-   {
-    "word": "por",
-    "start": 24.34
-   },
-   {
-    "word": "estos",
-    "start": 24.62
-   },
-   {
-    "word": "espacios",
-    "start": 25.01
-   },
-   {
-    "word": "sensibles.",
-    "start": 25.56
-   }
-  ],
-  "source": "pendiente: Loc_6"
- },
- "cm-s07": {
-  "src": "audio/locuciones-pendientes/lamina-07-pendiente.mp3",
-  "duration": 26.61,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 5.16,
-    "text": "Porque las operaciones con maquinaria pesada presentan riesgos de volteo de"
-   },
-   {
-    "start": 5.16,
-    "end": 12.18,
-    "text": "árboles, compactación y sedimentación sobre sitios culturales. Para prevenirlos, establecemos zonas"
-   },
-   {
-    "start": 12.18,
-    "end": 17.62,
-    "text": "de exclusión y amortiguamiento perimetral que deben respetarse sin excepción. Haz"
-   },
-   {
-    "start": 17.62,
-    "end": 22.22,
-    "text": "clic en los puntos del diagrama para examinar los riesgos operacionales"
-   },
-   {
-    "start": 22.22,
-    "end": 26.61,
-    "text": "y las medidas de resguardo aplicadas en faena."
-   }
-  ],
-  "words": [
-   {
-    "word": "Porque",
-    "start": 0.35
-   },
-   {
-    "word": "las",
-    "start": 0.79
-   },
-   {
-    "word": "operaciones",
-    "start": 1.08
-   },
-   {
-    "word": "con",
-    "start": 1.78
-   },
-   {
-    "word": "maquinaria",
-    "start": 2.07
-   },
-   {
-    "word": "pesada",
-    "start": 2.72
-   },
-   {
-    "word": "presentan",
-    "start": 3.16
-   },
-   {
-    "word": "riesgos",
-    "start": 3.76
-   },
-   {
-    "word": "de",
-    "start": 4.25
-   },
-   {
-    "word": "volteo",
-    "start": 4.48
-   },
-   {
-    "word": "de",
-    "start": 4.93
-   },
-   {
-    "word": "árboles,",
-    "start": 5.16
-   },
-   {
-    "word": "compactación",
-    "start": 6.03
-   },
-   {
-    "word": "y",
-    "start": 6.78
-   },
-   {
-    "word": "sedimentación",
-    "start": 6.96
-   },
-   {
-    "word": "sobre",
-    "start": 7.77
-   },
-   {
-    "word": "sitios",
-    "start": 8.16
-   },
-   {
-    "word": "culturales.",
-    "start": 8.6
-   },
-   {
-    "word": "Para",
-    "start": 9.62
-   },
-   {
-    "word": "prevenirlos,",
-    "start": 9.96
-   },
-   {
-    "word": "establecemos",
-    "start": 11.03
-   },
-   {
-    "word": "zonas",
-    "start": 11.79
-   },
-   {
-    "word": "de",
-    "start": 12.18
-   },
-   {
-    "word": "exclusión",
-    "start": 12.41
-   },
-   {
-    "word": "y",
-    "start": 13.01
-   },
-   {
-    "word": "amortiguamiento",
-    "start": 13.19
-   },
-   {
-    "word": "perimetral",
-    "start": 14.1
-   },
-   {
-    "word": "que",
-    "start": 14.75
-   },
-   {
-    "word": "deben",
-    "start": 15.04
-   },
-   {
-    "word": "respetarse",
-    "start": 15.43
-   },
-   {
-    "word": "sin",
-    "start": 16.08
-   },
-   {
-    "word": "excepción.",
-    "start": 16.36
-   },
-   {
-    "word": "Haz",
-    "start": 17.33
-   },
-   {
-    "word": "clic",
-    "start": 17.62
-   },
-   {
-    "word": "en",
-    "start": 17.96
-   },
-   {
-    "word": "los",
-    "start": 18.19
-   },
-   {
-    "word": "puntos",
-    "start": 18.48
-   },
-   {
-    "word": "del",
-    "start": 18.92
-   },
-   {
-    "word": "diagrama",
-    "start": 19.21
-   },
-   {
-    "word": "para",
-    "start": 19.75
-   },
-   {
-    "word": "examinar",
-    "start": 20.09
-   },
-   {
-    "word": "los",
-    "start": 20.64
-   },
-   {
-    "word": "riesgos",
-    "start": 20.92
-   },
-   {
-    "word": "operacionales",
-    "start": 21.42
-   },
-   {
-    "word": "y",
-    "start": 22.22
-   },
-   {
-    "word": "las",
-    "start": 22.4
-   },
-   {
-    "word": "medidas",
-    "start": 22.69
-   },
-   {
-    "word": "de",
-    "start": 23.18
-   },
-   {
-    "word": "resguardo",
-    "start": 23.42
-   },
-   {
-    "word": "aplicadas",
-    "start": 24.02
-   },
-   {
-    "word": "en",
-    "start": 24.61
-   },
-   {
-    "word": "faena.",
-    "start": 24.85
-   }
-  ],
-  "source": "pendiente: Loc_7"
- },
- "cm-s08": {
-  "src": "audio/locuciones-pendientes/lamina-08-pendiente.mp3",
-  "duration": 28.76,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 5.38,
-    "text": "Para asegurar el cumplimiento de estas zonas de resguardo, Arauco integra"
-   },
-   {
-    "start": 5.38,
-    "end": 10.3,
-    "text": "tecnología de precisión en cada faena. Toda área protegida está cargada"
-   },
-   {
-    "start": 10.3,
-    "end": 14.28,
-    "text": "en la cartografía digital del GPS a bordo de cosechadoras y"
-   },
-   {
-    "start": 14.28,
-    "end": 19.93,
-    "text": "camiones. Antes de encender motores, la supervisión realiza un checklist previo"
-   },
-   {
-    "start": 19.93,
-    "end": 25.23,
-    "text": "y, durante la operación, el operador monitorea la pantalla para mantener"
-   },
-   {
-    "start": 25.23,
-    "end": 28.76,
-    "text": "siempre la distancia de seguridad."
-   }
-  ],
-  "words": [
-   {
-    "word": "Para",
-    "start": 0.35
-   },
-   {
-    "word": "asegurar",
-    "start": 0.69
-   },
-   {
-    "word": "el",
-    "start": 1.23
-   },
-   {
-    "word": "cumplimiento",
-    "start": 1.47
-   },
-   {
-    "word": "de",
-    "start": 2.22
-   },
-   {
-    "word": "estas",
-    "start": 2.46
-   },
-   {
-    "word": "zonas",
-    "start": 2.85
-   },
-   {
-    "word": "de",
-    "start": 3.24
-   },
-   {
-    "word": "resguardo,",
-    "start": 3.47
-   },
-   {
-    "word": "Arauco",
+    "word": "histórico,",
     "start": 4.44
    },
    {
-    "word": "integra",
-    "start": 4.88
+    "word": "ceremonial,",
+    "start": 5.12
    },
    {
-    "word": "tecnología",
-    "start": 5.38
+    "word": "espiritual",
+    "start": 6.0
    },
    {
-    "word": "de",
-    "start": 6.03
-   },
-   {
-    "word": "precisión",
-    "start": 6.26
-   },
-   {
-    "word": "en",
-    "start": 6.86
-   },
-   {
-    "word": "cada",
-    "start": 7.09
-   },
-   {
-    "word": "faena.",
-    "start": 7.43
-   },
-   {
-    "word": "Toda",
-    "start": 8.19
-   },
-   {
-    "word": "área",
-    "start": 8.53
-   },
-   {
-    "word": "protegida",
-    "start": 8.87
-   },
-   {
-    "word": "está",
-    "start": 9.47
-   },
-   {
-    "word": "cargada",
-    "start": 9.8
-   },
-   {
-    "word": "en",
-    "start": 10.3
-   },
-   {
-    "word": "la",
-    "start": 10.53
-   },
-   {
-    "word": "cartografía",
-    "start": 10.77
-   },
-   {
-    "word": "digital",
-    "start": 11.47
-   },
-   {
-    "word": "del",
-    "start": 11.96
-   },
-   {
-    "word": "GPS",
-    "start": 12.25
-   },
-   {
-    "word": "a",
-    "start": 12.53
-   },
-   {
-    "word": "bordo",
-    "start": 12.72
-   },
-   {
-    "word": "de",
-    "start": 13.11
-   },
-   {
-    "word": "cosechadoras",
-    "start": 13.34
-   },
-   {
-    "word": "y",
-    "start": 14.09
-   },
-   {
-    "word": "camiones.",
-    "start": 14.28
-   },
-   {
-    "word": "Antes",
-    "start": 15.19
-   },
-   {
-    "word": "de",
-    "start": 15.58
-   },
-   {
-    "word": "encender",
-    "start": 15.82
-   },
-   {
-    "word": "motores,",
-    "start": 16.36
-   },
-   {
-    "word": "la",
-    "start": 17.23
-   },
-   {
-    "word": "supervisión",
-    "start": 17.46
-   },
-   {
-    "word": "realiza",
-    "start": 18.17
-   },
-   {
-    "word": "un",
-    "start": 18.66
-   },
-   {
-    "word": "checklist",
-    "start": 18.89
-   },
-   {
-    "word": "previo",
-    "start": 19.49
-   },
-   {
-    "word": "y,",
-    "start": 19.93
-   },
-   {
-    "word": "durante",
-    "start": 20.49
-   },
-   {
-    "word": "la",
-    "start": 20.98
-   },
-   {
-    "word": "operación,",
-    "start": 21.22
-   },
-   {
-    "word": "el",
-    "start": 22.19
-   },
-   {
-    "word": "operador",
-    "start": 22.42
-   },
-   {
-    "word": "monitorea",
-    "start": 22.97
-   },
-   {
-    "word": "la",
-    "start": 23.56
-   },
-   {
-    "word": "pantalla",
-    "start": 23.8
-   },
-   {
-    "word": "para",
-    "start": 24.34
-   },
-   {
-    "word": "mantener",
-    "start": 24.68
-   },
-   {
-    "word": "siempre",
-    "start": 25.23
-   },
-   {
-    "word": "la",
-    "start": 25.72
-   },
-   {
-    "word": "distancia",
-    "start": 25.96
-   },
-   {
-    "word": "de",
-    "start": 26.55
-   },
-   {
-    "word": "seguridad.",
-    "start": 26.79
-   }
-  ],
-  "source": "pendiente: Loc_8"
- },
- "cm-s09": {
-  "src": "audio/locuciones-pendientes/lamina-09-pendiente.mp3",
-  "duration": 15.34,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 4.95,
-    "text": "Pongamos a prueba tus conocimientos sobre valores culturales y zonas de"
-   },
-   {
-    "start": 4.95,
-    "end": 10.45,
-    "text": "resguardo. Analiza con atención el caso planteado en pantalla, selecciona la"
-   },
-   {
-    "start": 10.45,
-    "end": 15.34,
-    "text": "alternativa que corresponda y presiona Validar respuesta."
-   }
-  ],
-  "words": [
-   {
-    "word": "Pongamos",
-    "start": 0.35
-   },
-   {
-    "word": "a",
-    "start": 0.9
-   },
-   {
-    "word": "prueba",
-    "start": 1.08
-   },
-   {
-    "word": "tus",
-    "start": 1.52
-   },
-   {
-    "word": "conocimientos",
-    "start": 1.81
-   },
-   {
-    "word": "sobre",
-    "start": 2.61
-   },
-   {
-    "word": "valores",
-    "start": 3.0
-   },
-   {
-    "word": "culturales",
-    "start": 3.5
-   },
-   {
-    "word": "y",
-    "start": 4.15
-   },
-   {
-    "word": "zonas",
-    "start": 4.33
-   },
-   {
-    "word": "de",
-    "start": 4.72
-   },
-   {
-    "word": "resguardo.",
-    "start": 4.95
-   },
-   {
-    "word": "Analiza",
-    "start": 5.92
-   },
-   {
-    "word": "con",
-    "start": 6.42
-   },
-   {
-    "word": "atención",
-    "start": 6.7
-   },
-   {
-    "word": "el",
-    "start": 7.25
-   },
-   {
-    "word": "caso",
-    "start": 7.48
-   },
-   {
-    "word": "planteado",
-    "start": 7.82
-   },
-   {
-    "word": "en",
-    "start": 8.42
-   },
-   {
-    "word": "pantalla,",
-    "start": 8.65
-   },
-   {
-    "word": "selecciona",
-    "start": 9.57
-   },
-   {
-    "word": "la",
-    "start": 10.22
-   },
-   {
-    "word": "alternativa",
-    "start": 10.45
-   },
-   {
-    "word": "que",
-    "start": 11.16
-   },
-   {
-    "word": "corresponda",
-    "start": 11.44
-   },
-   {
-    "word": "y",
-    "start": 12.14
-   },
-   {
-    "word": "presiona",
-    "start": 12.33
-   },
-   {
-    "word": "Validar",
-    "start": 12.87
-   },
-   {
-    "word": "respuesta.",
-    "start": 13.37
-   }
-  ],
-  "source": "pendiente: Loc_9"
- },
- "cm-s10": {
-  "src": "audio/locuciones-pendientes/lamina-10-pendiente.mp3",
-  "duration": 13.85,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 5.48,
-    "text": "Continuemos con la segunda pregunta formativa. Lee la situación vinculada a"
-   },
-   {
-    "start": 5.48,
-    "end": 10.09,
-    "text": "la protección de cursos de agua y sitios sensibles, selecciona la"
-   },
-   {
-    "start": 10.09,
-    "end": 13.85,
-    "text": "opción correcta y valida tu decisión."
-   }
-  ],
-  "words": [
-   {
-    "word": "Continuemos",
-    "start": 0.35
-   },
-   {
-    "word": "con",
-    "start": 1.05
-   },
-   {
-    "word": "la",
-    "start": 1.34
-   },
-   {
-    "word": "segunda",
-    "start": 1.57
-   },
-   {
-    "word": "pregunta",
-    "start": 2.07
-   },
-   {
-    "word": "formativa.",
-    "start": 2.61
-   },
-   {
-    "word": "Lee",
-    "start": 3.58
-   },
-   {
-    "word": "la",
-    "start": 3.87
-   },
-   {
-    "word": "situación",
-    "start": 4.1
-   },
-   {
-    "word": "vinculada",
-    "start": 4.7
-   },
-   {
-    "word": "a",
-    "start": 5.3
-   },
-   {
-    "word": "la",
-    "start": 5.48
-   },
-   {
-    "word": "protección",
-    "start": 5.71
-   },
-   {
-    "word": "de",
-    "start": 6.36
-   },
-   {
-    "word": "cursos",
-    "start": 6.6
+    "word": "o",
+    "start": 6.52
    },
    {
     "word": "de",
     "start": 7.04
    },
    {
-    "word": "agua",
-    "start": 7.27
+    "word": "uso",
+    "start": 7.16
    },
    {
-    "word": "y",
-    "start": 7.61
+    "word": "tradicional",
+    "start": 7.32
    },
    {
-    "word": "sitios",
-    "start": 7.79
+    "word": "para",
+    "start": 7.86
    },
    {
-    "word": "sensibles,",
-    "start": 8.24
+    "word": "las",
+    "start": 8.08
    },
    {
-    "word": "selecciona",
-    "start": 9.21
+    "word": "comunidades",
+    "start": 8.26
+   },
+   {
+    "word": "vecinas.",
+    "start": 8.74
+   },
+   {
+    "word": "En",
+    "start": 10.0
+   },
+   {
+    "word": "el",
+    "start": 10.28
+   },
+   {
+    "word": "sector",
+    "start": 10.36
+   },
+   {
+    "word": "forestal,",
+    "start": 10.6
+   },
+   {
+    "word": "estos",
+    "start": 11.56
+   },
+   {
+    "word": "lugares",
+    "start": 11.72
+   },
+   {
+    "word": "se",
+    "start": 12.08
+   },
+   {
+    "word": "integran",
+    "start": 12.26
+   },
+   {
+    "word": "bajo",
+    "start": 12.64
    },
    {
     "word": "la",
-    "start": 9.86
+    "start": 12.78
    },
    {
-    "word": "opción",
-    "start": 10.09
+    "word": "categoría",
+    "start": 12.94
    },
    {
-    "word": "correcta",
-    "start": 10.53
+    "word": "de",
+    "start": 13.44
+   },
+   {
+    "word": "Áreas",
+    "start": 13.58
+   },
+   {
+    "word": "de",
+    "start": 13.9
+   },
+   {
+    "word": "Alto",
+    "start": 14.14
+   },
+   {
+    "word": "Valor",
+    "start": 14.32
+   },
+   {
+    "word": "Cultural.",
+    "start": 14.54
+   },
+   {
+    "word": "Protegerlos",
+    "start": 15.7
+   },
+   {
+    "word": "exige",
+    "start": 16.44
+   },
+   {
+    "word": "una",
+    "start": 16.82
+   },
+   {
+    "word": "gestión",
+    "start": 16.96
+   },
+   {
+    "word": "diferenciada,",
+    "start": 17.32
+   },
+   {
+    "word": "aplicando",
+    "start": 18.3
+   },
+   {
+    "word": "restricciones",
+    "start": 18.78
+   },
+   {
+    "word": "operativas",
+    "start": 19.32
+   },
+   {
+    "word": "estrictas",
+    "start": 19.86
+   },
+   {
+    "word": "para",
+    "start": 20.48
+   },
+   {
+    "word": "resguardar",
+    "start": 20.86
+   },
+   {
+    "word": "la",
+    "start": 21.4
+   },
+   {
+    "word": "identidad",
+    "start": 21.48
+   },
+   {
+    "word": "ancestral",
+    "start": 21.88
+   },
+   {
+    "word": "que",
+    "start": 22.36
+   },
+   {
+    "word": "albergan.",
+    "start": 22.52
+   }
+  ],
+  "source": "Loc_3.mp3"
+ },
+ "cm-s04": {
+  "src": "audio/locuciones-m3/lamina-04.mp3",
+  "duration": 21.473,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 4.22,
+    "text": "Arauco resguarda 37 Áreas de Alto Valor Cultural identificadas junto a"
+   },
+   {
+    "start": 4.22,
+    "end": 8.96,
+    "text": "las comunidades vecinas y sujetas a manejo restrictivo. Estos espacios abarcan"
+   },
+   {
+    "start": 8.96,
+    "end": 14.46,
+    "text": "centros ceremoniales, cementerios ancestrales y humedales de recolección medicinal indispensables para"
+   },
+   {
+    "start": 14.46,
+    "end": 18.58,
+    "text": "el bienestar comunitario. Haz clic en las categorías en pantalla para"
+   },
+   {
+    "start": 18.58,
+    "end": 21.47,
+    "text": "conocer cómo se distribuyen estas áreas protegidas."
+   }
+  ],
+  "words": [
+   {
+    "word": "Arauco",
+    "start": 0.0
+   },
+   {
+    "word": "resguarda",
+    "start": 0.58
+   },
+   {
+    "word": "37",
+    "start": 1.02
+   },
+   {
+    "word": "Áreas",
+    "start": 1.5
+   },
+   {
+    "word": "de",
+    "start": 1.84
+   },
+   {
+    "word": "Alto",
+    "start": 2.04
+   },
+   {
+    "word": "Valor",
+    "start": 2.2
+   },
+   {
+    "word": "Cultural",
+    "start": 2.42
+   },
+   {
+    "word": "identificadas",
+    "start": 2.84
+   },
+   {
+    "word": "junto",
+    "start": 3.86
+   },
+   {
+    "word": "a",
+    "start": 4.04
+   },
+   {
+    "word": "las",
+    "start": 4.22
+   },
+   {
+    "word": "comunidades",
+    "start": 4.32
+   },
+   {
+    "word": "vecinas",
+    "start": 4.78
    },
    {
     "word": "y",
-    "start": 11.08
+    "start": 5.32
+   },
+   {
+    "word": "sujetas",
+    "start": 5.7
+   },
+   {
+    "word": "a",
+    "start": 6.1
+   },
+   {
+    "word": "manejo",
+    "start": 6.2
+   },
+   {
+    "word": "restrictivo.",
+    "start": 6.52
+   },
+   {
+    "word": "Estos",
+    "start": 7.72
+   },
+   {
+    "word": "espacios",
+    "start": 8.12
+   },
+   {
+    "word": "abarcan",
+    "start": 8.56
+   },
+   {
+    "word": "centros",
+    "start": 8.96
+   },
+   {
+    "word": "ceremoniales,",
+    "start": 9.36
+   },
+   {
+    "word": "cementerios",
+    "start": 10.3
+   },
+   {
+    "word": "ancestrales",
+    "start": 10.8
+   },
+   {
+    "word": "y",
+    "start": 11.52
+   },
+   {
+    "word": "humedales",
+    "start": 11.84
+   },
+   {
+    "word": "de",
+    "start": 12.18
+   },
+   {
+    "word": "recolección",
+    "start": 12.36
+   },
+   {
+    "word": "medicinal",
+    "start": 12.84
+   },
+   {
+    "word": "indispensables",
+    "start": 13.34
+   },
+   {
+    "word": "para",
+    "start": 14.24
+   },
+   {
+    "word": "el",
+    "start": 14.46
+   },
+   {
+    "word": "bienestar",
+    "start": 14.58
+   },
+   {
+    "word": "comunitario.",
+    "start": 14.9
+   },
+   {
+    "word": "Haz",
+    "start": 16.26
+   },
+   {
+    "word": "clic",
+    "start": 16.58
+   },
+   {
+    "word": "en",
+    "start": 16.74
+   },
+   {
+    "word": "las",
+    "start": 16.92
+   },
+   {
+    "word": "categorías",
+    "start": 17.04
+   },
+   {
+    "word": "en",
+    "start": 17.54
+   },
+   {
+    "word": "pantalla",
+    "start": 17.68
+   },
+   {
+    "word": "para",
+    "start": 17.98
+   },
+   {
+    "word": "conocer",
+    "start": 18.58
+   },
+   {
+    "word": "cómo",
+    "start": 18.88
+   },
+   {
+    "word": "se",
+    "start": 19.22
+   },
+   {
+    "word": "distribuyen",
+    "start": 19.36
+   },
+   {
+    "word": "estas",
+    "start": 19.92
+   },
+   {
+    "word": "áreas",
+    "start": 20.1
+   },
+   {
+    "word": "protegidas.",
+    "start": 20.38
+   }
+  ],
+  "source": "Loc_4.mp3"
+ },
+ "cm-s05": {
+  "src": "avatar/avatar-05.m4a",
+  "duration": 14.016,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 4.18,
+    "text": "En nuestro entorno forestal conviven sitios de profunda significación ancestral como:"
+   },
+   {
+    "start": 4.18,
+    "end": 9.62,
+    "text": "el Eltuwe Mapu o cementerio, el Ngüllatuwe para rogativas comunitarias, el"
+   },
+   {
+    "start": 9.62,
+    "end": 12.96,
+    "text": "Paliwe para el tradicional juego de palín y los cerros sagrados"
+   },
+   {
+    "start": 12.96,
+    "end": 14.02,
+    "text": "Treng-Treng."
+   }
+  ],
+  "words": [
+   {
+    "word": "En",
+    "start": 0.0
+   },
+   {
+    "word": "nuestro",
+    "start": 0.4
+   },
+   {
+    "word": "entorno",
+    "start": 0.58
+   },
+   {
+    "word": "forestal",
+    "start": 0.92
+   },
+   {
+    "word": "conviven",
+    "start": 1.44
+   },
+   {
+    "word": "sitios",
+    "start": 1.82
+   },
+   {
+    "word": "de",
+    "start": 2.22
+   },
+   {
+    "word": "profunda",
+    "start": 2.32
+   },
+   {
+    "word": "significación",
+    "start": 2.72
+   },
+   {
+    "word": "ancestral",
+    "start": 3.4
+   },
+   {
+    "word": "como:",
+    "start": 3.82
+   },
+   {
+    "word": "el",
+    "start": 4.18
+   },
+   {
+    "word": "Eltuwe",
+    "start": 4.76
+   },
+   {
+    "word": "Mapu",
+    "start": 5.16
+   },
+   {
+    "word": "o",
+    "start": 5.6
+   },
+   {
+    "word": "cementerio,",
+    "start": 5.7
+   },
+   {
+    "word": "el",
+    "start": 6.76
+   },
+   {
+    "word": "Ngüllatuwe",
+    "start": 6.84
+   },
+   {
+    "word": "para",
+    "start": 7.44
+   },
+   {
+    "word": "rogativas",
+    "start": 7.74
+   },
+   {
+    "word": "comunitarias,",
+    "start": 8.14
+   },
+   {
+    "word": "el",
+    "start": 9.5
+   },
+   {
+    "word": "Paliwe",
+    "start": 9.62
+   },
+   {
+    "word": "para",
+    "start": 10.06
+   },
+   {
+    "word": "el",
+    "start": 10.32
+   },
+   {
+    "word": "tradicional",
+    "start": 10.44
+   },
+   {
+    "word": "juego",
+    "start": 10.82
+   },
+   {
+    "word": "de",
+    "start": 11.1
+   },
+   {
+    "word": "palín",
+    "start": 11.3
+   },
+   {
+    "word": "y",
+    "start": 11.66
+   },
+   {
+    "word": "los",
+    "start": 12.14
+   },
+   {
+    "word": "cerros",
+    "start": 12.28
+   },
+   {
+    "word": "sagrados",
+    "start": 12.54
+   },
+   {
+    "word": "Treng-Treng.",
+    "start": 12.96
+   }
+  ],
+  "source": "Loc_5_Arauco_culturaM3_1080p.mp4"
+ },
+ "cm-s06": {
+  "src": "audio/locuciones-m3/lamina-06.mp3",
+  "duration": 22.204,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 3.26,
+    "text": "Para la cosmovisión mapuche, el agua es una fuente sagrada de"
+   },
+   {
+    "start": 3.26,
+    "end": 8.28,
+    "text": "vida habitada por espíritus protectores llamados Ngen. Los Menoko son humedales"
+   },
+   {
+    "start": 8.28,
+    "end": 12.34,
+    "text": "de vertiente ricos en hierbas medicinales, mientras que los Trayenko son"
+   },
+   {
+    "start": 12.34,
+    "end": 17.54,
+    "text": "cascadas para baños rituales. En nuestras faenas está estrictamente prohibido drenar,"
+   },
+   {
+    "start": 17.54,
+    "end": 22.2,
+    "text": "talar vegetación asociada o cruzar maquinaria pesada por estos espacios sensibles."
+   }
+  ],
+  "words": [
+   {
+    "word": "Para",
+    "start": 0.0
+   },
+   {
+    "word": "la",
+    "start": 0.36
+   },
+   {
+    "word": "cosmovisión",
+    "start": 0.48
+   },
+   {
+    "word": "mapuche,",
+    "start": 1.04
+   },
+   {
+    "word": "el",
+    "start": 1.86
+   },
+   {
+    "word": "agua",
+    "start": 1.96
+   },
+   {
+    "word": "es",
+    "start": 2.1
+   },
+   {
+    "word": "una",
+    "start": 2.24
+   },
+   {
+    "word": "fuente",
+    "start": 2.36
+   },
+   {
+    "word": "sagrada",
+    "start": 2.68
+   },
+   {
+    "word": "de",
+    "start": 3.06
+   },
+   {
+    "word": "vida",
+    "start": 3.26
+   },
+   {
+    "word": "habitada",
+    "start": 3.72
+   },
+   {
+    "word": "por",
+    "start": 4.14
+   },
+   {
+    "word": "espíritus",
+    "start": 4.32
+   },
+   {
+    "word": "protectores",
+    "start": 4.78
+   },
+   {
+    "word": "llamados",
+    "start": 5.3
+   },
+   {
+    "word": "Ngen.",
+    "start": 5.78
+   },
+   {
+    "word": "Los",
+    "start": 6.84
+   },
+   {
+    "word": "Menoko",
+    "start": 7.16
+   },
+   {
+    "word": "son",
+    "start": 7.54
+   },
+   {
+    "word": "humedales",
+    "start": 7.9
+   },
+   {
+    "word": "de",
+    "start": 8.28
+   },
+   {
+    "word": "vertiente",
+    "start": 8.46
+   },
+   {
+    "word": "ricos",
+    "start": 8.8
+   },
+   {
+    "word": "en",
+    "start": 9.24
+   },
+   {
+    "word": "hierbas",
+    "start": 9.44
+   },
+   {
+    "word": "medicinales,",
+    "start": 9.74
+   },
+   {
+    "word": "mientras",
+    "start": 10.82
+   },
+   {
+    "word": "que",
+    "start": 11.02
+   },
+   {
+    "word": "los",
+    "start": 11.28
+   },
+   {
+    "word": "Trayenko",
+    "start": 11.42
+   },
+   {
+    "word": "son",
+    "start": 11.96
+   },
+   {
+    "word": "cascadas",
+    "start": 12.34
+   },
+   {
+    "word": "para",
+    "start": 12.8
+   },
+   {
+    "word": "baños",
+    "start": 13.04
+   },
+   {
+    "word": "rituales.",
+    "start": 13.32
+   },
+   {
+    "word": "En",
+    "start": 14.58
+   },
+   {
+    "word": "nuestras",
+    "start": 14.7
+   },
+   {
+    "word": "faenas",
+    "start": 14.92
+   },
+   {
+    "word": "está",
+    "start": 15.38
+   },
+   {
+    "word": "estrictamente",
+    "start": 15.66
+   },
+   {
+    "word": "prohibido",
+    "start": 16.3
+   },
+   {
+    "word": "drenar,",
+    "start": 16.84
+   },
+   {
+    "word": "talar",
+    "start": 17.54
+   },
+   {
+    "word": "vegetación",
+    "start": 17.8
+   },
+   {
+    "word": "asociada",
+    "start": 18.3
+   },
+   {
+    "word": "o",
+    "start": 18.8
+   },
+   {
+    "word": "cruzar",
+    "start": 19.2
+   },
+   {
+    "word": "maquinaria",
+    "start": 19.5
+   },
+   {
+    "word": "pesada",
+    "start": 19.98
+   },
+   {
+    "word": "por",
+    "start": 20.36
+   },
+   {
+    "word": "estos",
+    "start": 20.56
+   },
+   {
+    "word": "espacios",
+    "start": 20.7
+   },
+   {
+    "word": "sensibles.",
+    "start": 21.22
+   }
+  ],
+  "source": "Loc_6.mp3"
+ },
+ "cm-s07": {
+  "src": "audio/locuciones-m3/lamina-07.mp3",
+  "duration": 21.185,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 3.92,
+    "text": "Porque las operaciones con maquinaria pesada presentan riesgos de volteo de"
+   },
+   {
+    "start": 3.92,
+    "end": 10.16,
+    "text": "árboles, compactación y sedimentación sobre sitios culturales. Para prevenirlos, establecemos zonas"
+   },
+   {
+    "start": 10.16,
+    "end": 15.06,
+    "text": "de exclusión y amortiguamiento perimetral que deben respetarse sin excepción. Haz"
+   },
+   {
+    "start": 15.06,
+    "end": 18.52,
+    "text": "clic en los puntos del diagrama para examinar los riesgos operacionales"
+   },
+   {
+    "start": 18.52,
+    "end": 21.19,
+    "text": "y las medidas de resguardo aplicadas en faena."
+   }
+  ],
+  "words": [
+   {
+    "word": "Porque",
+    "start": 0.0
+   },
+   {
+    "word": "las",
+    "start": 0.44
+   },
+   {
+    "word": "operaciones",
+    "start": 0.62
+   },
+   {
+    "word": "con",
+    "start": 1.12
+   },
+   {
+    "word": "maquinaria",
+    "start": 1.34
+   },
+   {
+    "word": "pesada",
+    "start": 1.78
+   },
+   {
+    "word": "presentan",
+    "start": 2.18
+   },
+   {
+    "word": "riesgos",
+    "start": 2.9
+   },
+   {
+    "word": "de",
+    "start": 3.32
+   },
+   {
+    "word": "volteo",
+    "start": 3.46
+   },
+   {
+    "word": "de",
+    "start": 3.82
+   },
+   {
+    "word": "árboles,",
+    "start": 3.92
+   },
+   {
+    "word": "compactación",
+    "start": 4.5
+   },
+   {
+    "word": "y",
+    "start": 5.18
+   },
+   {
+    "word": "sedimentación",
+    "start": 5.66
+   },
+   {
+    "word": "sobre",
+    "start": 6.34
+   },
+   {
+    "word": "sitios",
+    "start": 6.56
+   },
+   {
+    "word": "culturales.",
+    "start": 6.94
+   },
+   {
+    "word": "Para",
+    "start": 8.1
+   },
+   {
+    "word": "prevenirlos,",
+    "start": 8.34
+   },
+   {
+    "word": "establecemos",
+    "start": 9.34
+   },
+   {
+    "word": "zonas",
+    "start": 9.84
+   },
+   {
+    "word": "de",
+    "start": 10.16
+   },
+   {
+    "word": "exclusión",
+    "start": 10.3
+   },
+   {
+    "word": "y",
+    "start": 10.8
+   },
+   {
+    "word": "amortiguamiento",
+    "start": 10.86
+   },
+   {
+    "word": "perimetral",
+    "start": 11.46
+   },
+   {
+    "word": "que",
+    "start": 12.06
+   },
+   {
+    "word": "deben",
+    "start": 12.44
+   },
+   {
+    "word": "respetarse",
+    "start": 12.64
+   },
+   {
+    "word": "sin",
+    "start": 13.28
+   },
+   {
+    "word": "excepción.",
+    "start": 13.54
+   },
+   {
+    "word": "Haz",
+    "start": 14.76
+   },
+   {
+    "word": "clic",
+    "start": 15.06
+   },
+   {
+    "word": "en",
+    "start": 15.22
+   },
+   {
+    "word": "los",
+    "start": 15.38
+   },
+   {
+    "word": "puntos",
+    "start": 15.46
+   },
+   {
+    "word": "del",
+    "start": 15.74
+   },
+   {
+    "word": "diagrama",
+    "start": 15.94
+   },
+   {
+    "word": "para",
+    "start": 16.38
+   },
+   {
+    "word": "examinar",
+    "start": 16.5
+   },
+   {
+    "word": "los",
+    "start": 17.0
+   },
+   {
+    "word": "riesgos",
+    "start": 17.12
+   },
+   {
+    "word": "operacionales",
+    "start": 17.54
+   },
+   {
+    "word": "y",
+    "start": 18.52
+   },
+   {
+    "word": "las",
+    "start": 18.66
+   },
+   {
+    "word": "medidas",
+    "start": 18.76
+   },
+   {
+    "word": "de",
+    "start": 19.08
+   },
+   {
+    "word": "resguardo",
+    "start": 19.28
+   },
+   {
+    "word": "aplicadas",
+    "start": 19.7
+   },
+   {
+    "word": "en",
+    "start": 20.14
+   },
+   {
+    "word": "faena.",
+    "start": 20.32
+   }
+  ],
+  "source": "Loc_7.mp3"
+ },
+ "cm-s08": {
+  "src": "audio/locuciones-m3/lamina-08.mp3",
+  "duration": 21.734,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 3.6,
+    "text": "Para asegurar el cumplimiento de estas zonas de resguardo, Arauco integra"
+   },
+   {
+    "start": 3.6,
+    "end": 8.02,
+    "text": "tecnología de precisión en cada faena. Toda área protegida está cargada"
+   },
+   {
+    "start": 8.02,
+    "end": 11.48,
+    "text": "en la cartografía digital del GPS a bordo de cosechadoras y"
+   },
+   {
+    "start": 11.48,
+    "end": 16.24,
+    "text": "camiones. Antes de encender motores, la supervisión realiza un checklist previo"
+   },
+   {
+    "start": 16.24,
+    "end": 19.74,
+    "text": "y, durante la operación, el operador monitorea la pantalla para mantener"
+   },
+   {
+    "start": 19.74,
+    "end": 21.73,
+    "text": "siempre la distancia de seguridad."
+   }
+  ],
+  "words": [
+   {
+    "word": "Para",
+    "start": 0.0
+   },
+   {
+    "word": "asegurar",
+    "start": 0.32
+   },
+   {
+    "word": "el",
+    "start": 0.66
+   },
+   {
+    "word": "cumplimiento",
+    "start": 0.78
+   },
+   {
+    "word": "de",
+    "start": 1.32
+   },
+   {
+    "word": "estas",
+    "start": 1.48
+   },
+   {
+    "word": "zonas",
+    "start": 1.6
+   },
+   {
+    "word": "de",
+    "start": 1.88
+   },
+   {
+    "word": "resguardo,",
+    "start": 2.02
+   },
+   {
+    "word": "Arauco",
+    "start": 2.92
+   },
+   {
+    "word": "integra",
+    "start": 3.22
+   },
+   {
+    "word": "tecnología",
+    "start": 3.6
+   },
+   {
+    "word": "de",
+    "start": 4.04
+   },
+   {
+    "word": "precisión",
+    "start": 4.3
+   },
+   {
+    "word": "en",
+    "start": 4.82
+   },
+   {
+    "word": "cada",
+    "start": 5.06
+   },
+   {
+    "word": "faena.",
+    "start": 5.3
+   },
+   {
+    "word": "Toda",
+    "start": 6.46
+   },
+   {
+    "word": "área",
+    "start": 6.76
+   },
+   {
+    "word": "protegida",
+    "start": 6.9
+   },
+   {
+    "word": "está",
+    "start": 7.44
+   },
+   {
+    "word": "cargada",
+    "start": 7.62
+   },
+   {
+    "word": "en",
+    "start": 8.02
+   },
+   {
+    "word": "la",
+    "start": 8.1
+   },
+   {
+    "word": "cartografía",
+    "start": 8.2
+   },
+   {
+    "word": "digital",
+    "start": 8.76
+   },
+   {
+    "word": "del",
+    "start": 9.18
+   },
+   {
+    "word": "GPS",
+    "start": 9.32
+   },
+   {
+    "word": "a",
+    "start": 9.68
+   },
+   {
+    "word": "bordo",
+    "start": 10.36
+   },
+   {
+    "word": "de",
+    "start": 10.56
+   },
+   {
+    "word": "cosechadoras",
+    "start": 10.72
+   },
+   {
+    "word": "y",
+    "start": 11.38
+   },
+   {
+    "word": "camiones.",
+    "start": 11.48
+   },
+   {
+    "word": "Antes",
+    "start": 12.68
+   },
+   {
+    "word": "de",
+    "start": 12.98
+   },
+   {
+    "word": "encender",
+    "start": 13.16
+   },
+   {
+    "word": "motores,",
+    "start": 13.42
+   },
+   {
+    "word": "la",
+    "start": 14.26
+   },
+   {
+    "word": "supervisión",
+    "start": 14.32
+   },
+   {
+    "word": "realiza",
+    "start": 14.84
+   },
+   {
+    "word": "un",
+    "start": 15.24
+   },
+   {
+    "word": "checklist",
+    "start": 15.34
+   },
+   {
+    "word": "previo",
+    "start": 15.64
+   },
+   {
+    "word": "y,",
+    "start": 16.24
+   },
+   {
+    "word": "durante",
+    "start": 16.52
+   },
+   {
+    "word": "la",
+    "start": 16.7
+   },
+   {
+    "word": "operación,",
+    "start": 16.92
+   },
+   {
+    "word": "el",
+    "start": 17.68
+   },
+   {
+    "word": "operador",
+    "start": 17.88
+   },
+   {
+    "word": "monitorea",
+    "start": 18.22
+   },
+   {
+    "word": "la",
+    "start": 18.74
+   },
+   {
+    "word": "pantalla",
+    "start": 18.84
+   },
+   {
+    "word": "para",
+    "start": 19.16
+   },
+   {
+    "word": "mantener",
+    "start": 19.42
+   },
+   {
+    "word": "siempre",
+    "start": 19.74
+   },
+   {
+    "word": "la",
+    "start": 20.14
+   },
+   {
+    "word": "distancia",
+    "start": 20.32
+   },
+   {
+    "word": "de",
+    "start": 20.78
+   },
+   {
+    "word": "seguridad.",
+    "start": 20.88
+   }
+  ],
+  "source": "Loc_8.mp3"
+ },
+ "cm-s09": {
+  "src": "audio/locuciones-m3/lamina-09.mp3",
+  "duration": 11.442,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 3.34,
+    "text": "Pongamos a prueba tus conocimientos sobre valores culturales y zonas de"
+   },
+   {
+    "start": 3.34,
+    "end": 7.72,
+    "text": "resguardo. Analiza con atención el caso planteado en pantalla, selecciona la"
+   },
+   {
+    "start": 7.72,
+    "end": 11.44,
+    "text": "alternativa que corresponda y presiona Validar respuesta."
+   }
+  ],
+  "words": [
+   {
+    "word": "Pongamos",
+    "start": 0.0
+   },
+   {
+    "word": "a",
+    "start": 0.56
+   },
+   {
+    "word": "prueba",
+    "start": 0.7
+   },
+   {
+    "word": "tus",
+    "start": 0.84
+   },
+   {
+    "word": "conocimientos",
+    "start": 1.04
+   },
+   {
+    "word": "sobre",
+    "start": 1.7
+   },
+   {
+    "word": "valores",
+    "start": 1.92
+   },
+   {
+    "word": "culturales",
+    "start": 2.2
+   },
+   {
+    "word": "y",
+    "start": 2.88
+   },
+   {
+    "word": "zonas",
+    "start": 2.96
+   },
+   {
+    "word": "de",
+    "start": 3.22
+   },
+   {
+    "word": "resguardo.",
+    "start": 3.34
+   },
+   {
+    "word": "Analiza",
+    "start": 4.32
+   },
+   {
+    "word": "con",
+    "start": 4.9
+   },
+   {
+    "word": "atención",
+    "start": 5.04
+   },
+   {
+    "word": "el",
+    "start": 5.34
+   },
+   {
+    "word": "caso",
+    "start": 5.58
+   },
+   {
+    "word": "planteado",
+    "start": 5.78
+   },
+   {
+    "word": "en",
+    "start": 6.24
+   },
+   {
+    "word": "pantalla,",
+    "start": 6.32
+   },
+   {
+    "word": "selecciona",
+    "start": 7.12
+   },
+   {
+    "word": "la",
+    "start": 7.62
+   },
+   {
+    "word": "alternativa",
+    "start": 7.72
+   },
+   {
+    "word": "que",
+    "start": 8.28
+   },
+   {
+    "word": "corresponda",
+    "start": 8.4
+   },
+   {
+    "word": "y",
+    "start": 9.1
+   },
+   {
+    "word": "presiona",
+    "start": 9.4
+   },
+   {
+    "word": "Validar",
+    "start": 9.84
+   },
+   {
+    "word": "respuesta.",
+    "start": 10.4
+   }
+  ],
+  "source": "Loc_9.mp3"
+ },
+ "cm-s10": {
+  "src": "audio/locuciones-m3/lamina-10.mp3",
+  "duration": 10.318,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 4.36,
+    "text": "Continuemos con la segunda pregunta formativa. Lee la situación vinculada a"
+   },
+   {
+    "start": 4.36,
+    "end": 7.74,
+    "text": "la protección de cursos de agua y sitios sensibles, selecciona la"
+   },
+   {
+    "start": 7.74,
+    "end": 10.32,
+    "text": "opción correcta y valida tu decisión."
+   }
+  ],
+  "words": [
+   {
+    "word": "Continuemos",
+    "start": 0.0
+   },
+   {
+    "word": "con",
+    "start": 0.62
+   },
+   {
+    "word": "la",
+    "start": 0.82
+   },
+   {
+    "word": "segunda",
+    "start": 0.96
+   },
+   {
+    "word": "pregunta",
+    "start": 1.24
+   },
+   {
+    "word": "formativa.",
+    "start": 1.58
+   },
+   {
+    "word": "Lee",
+    "start": 2.9
+   },
+   {
+    "word": "la",
+    "start": 3.2
+   },
+   {
+    "word": "situación",
+    "start": 3.28
+   },
+   {
+    "word": "vinculada",
+    "start": 3.58
+   },
+   {
+    "word": "a",
+    "start": 4.26
+   },
+   {
+    "word": "la",
+    "start": 4.36
+   },
+   {
+    "word": "protección",
+    "start": 4.4
+   },
+   {
+    "word": "de",
+    "start": 4.86
+   },
+   {
+    "word": "cursos",
+    "start": 5.0
+   },
+   {
+    "word": "de",
+    "start": 5.36
+   },
+   {
+    "word": "agua",
+    "start": 5.48
+   },
+   {
+    "word": "y",
+    "start": 5.7
+   },
+   {
+    "word": "sitios",
+    "start": 5.94
+   },
+   {
+    "word": "sensibles,",
+    "start": 6.26
+   },
+   {
+    "word": "selecciona",
+    "start": 7.12
+   },
+   {
+    "word": "la",
+    "start": 7.64
+   },
+   {
+    "word": "opción",
+    "start": 7.74
+   },
+   {
+    "word": "correcta",
+    "start": 7.98
+   },
+   {
+    "word": "y",
+    "start": 8.5
    },
    {
     "word": "valida",
-    "start": 11.26
+    "start": 8.72
    },
    {
     "word": "tu",
-    "start": 11.7
+    "start": 9.06
    },
    {
     "word": "decisión.",
-    "start": 11.94
+    "start": 9.18
    }
   ],
-  "source": "pendiente: Loc_10"
+  "source": "Loc_10.mp3"
  },
  "cm-s11": {
-  "src": "audio/locuciones-pendientes/lamina-11-pendiente.mp3",
-  "duration": 29.49,
+  "src": "avatar/avatar-11.m4a",
+  "duration": 22.464,
   "cues": [
    {
-    "start": 0.35,
-    "end": 4.9,
+    "start": 0.0,
+    "end": 3.5,
     "text": "El manejo forestal sostenible va mucho más allá de cuidar plantaciones"
    },
    {
-    "start": 4.9,
-    "end": 9.77,
+    "start": 3.5,
+    "end": 7.48,
     "text": "y bosques nativos: exige un compromiso activo con el patrimonio social"
    },
    {
-    "start": 9.77,
-    "end": 14.38,
+    "start": 7.48,
+    "end": 11.28,
     "text": "y cultural de los territorios. En Arauco entendemos que no existe"
    },
    {
-    "start": 14.38,
-    "end": 19.87,
+    "start": 11.28,
+    "end": 15.74,
     "text": "sostenibilidad sin respeto irrestricto a los derechos de las comunidades mapuches."
    },
    {
-    "start": 19.87,
-    "end": 24.74,
+    "start": 15.74,
+    "end": 19.42,
     "text": "Proteger sus sitios de significación es parte esencial de nuestra excelencia"
    },
    {
-    "start": 24.74,
-    "end": 29.49,
+    "start": 19.42,
+    "end": 22.46,
     "text": "operacional y de nuestra licencia social para operar."
    }
   ],
   "words": [
    {
     "word": "El",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "manejo",
-    "start": 0.58
+    "start": 0.3
    },
    {
     "word": "forestal",
-    "start": 1.03
+    "start": 0.62
    },
    {
     "word": "sostenible",
-    "start": 1.57
+    "start": 1.04
    },
    {
     "word": "va",
-    "start": 2.22
+    "start": 1.58
    },
    {
     "word": "mucho",
-    "start": 2.46
+    "start": 1.76
    },
    {
     "word": "más",
-    "start": 2.85
+    "start": 2.1
    },
    {
     "word": "allá",
-    "start": 3.13
+    "start": 2.28
    },
    {
     "word": "de",
-    "start": 3.47
+    "start": 2.52
    },
    {
     "word": "cuidar",
-    "start": 3.7
+    "start": 2.64
    },
    {
     "word": "plantaciones",
-    "start": 4.15
+    "start": 2.94
    },
    {
     "word": "y",
-    "start": 4.9
+    "start": 3.5
    },
    {
     "word": "bosques",
-    "start": 5.08
+    "start": 3.7
    },
    {
     "word": "nativos:",
-    "start": 5.58
+    "start": 3.96
    },
    {
     "word": "exige",
-    "start": 6.44
+    "start": 4.96
    },
    {
     "word": "un",
-    "start": 6.83
+    "start": 5.4
    },
    {
     "word": "compromiso",
-    "start": 7.07
+    "start": 5.5
    },
    {
     "word": "activo",
-    "start": 7.72
+    "start": 6.0
    },
    {
     "word": "con",
-    "start": 8.16
+    "start": 6.42
    },
    {
     "word": "el",
-    "start": 8.44
+    "start": 6.54
    },
    {
     "word": "patrimonio",
-    "start": 8.68
+    "start": 6.66
    },
    {
     "word": "social",
-    "start": 9.33
+    "start": 7.16
    },
    {
     "word": "y",
-    "start": 9.77
+    "start": 7.48
    },
    {
     "word": "cultural",
-    "start": 9.95
+    "start": 7.74
    },
    {
     "word": "de",
-    "start": 10.5
+    "start": 8.08
    },
    {
     "word": "los",
-    "start": 10.73
+    "start": 8.28
    },
    {
     "word": "territorios.",
-    "start": 11.02
+    "start": 8.4
    },
    {
     "word": "En",
-    "start": 12.09
+    "start": 9.6
    },
    {
     "word": "Arauco",
-    "start": 12.33
+    "start": 9.84
    },
    {
     "word": "entendemos",
-    "start": 12.77
+    "start": 10.18
    },
    {
     "word": "que",
-    "start": 13.42
+    "start": 10.64
    },
    {
     "word": "no",
-    "start": 13.7
+    "start": 10.8
    },
    {
     "word": "existe",
-    "start": 13.94
+    "start": 10.96
    },
    {
     "word": "sostenibilidad",
-    "start": 14.38
+    "start": 11.28
    },
    {
     "word": "sin",
-    "start": 15.24
+    "start": 11.98
    },
    {
     "word": "respeto",
-    "start": 15.52
+    "start": 12.48
    },
    {
     "word": "irrestricto",
-    "start": 16.02
+    "start": 12.96
    },
    {
     "word": "a",
-    "start": 16.72
+    "start": 13.46
    },
    {
     "word": "los",
-    "start": 16.9
+    "start": 13.56
    },
    {
     "word": "derechos",
-    "start": 17.19
+    "start": 13.66
    },
    {
     "word": "de",
-    "start": 17.73
+    "start": 13.94
    },
    {
     "word": "las",
-    "start": 17.97
+    "start": 14.12
    },
    {
     "word": "comunidades",
-    "start": 18.25
+    "start": 14.24
    },
    {
     "word": "mapuches.",
-    "start": 18.96
+    "start": 14.72
    },
    {
     "word": "Proteger",
-    "start": 19.87
+    "start": 15.74
    },
    {
     "word": "sus",
-    "start": 20.42
+    "start": 16.28
    },
    {
     "word": "sitios",
-    "start": 20.71
+    "start": 16.48
    },
    {
     "word": "de",
-    "start": 21.15
+    "start": 16.78
    },
    {
     "word": "significación",
-    "start": 21.38
+    "start": 16.86
    },
    {
     "word": "es",
-    "start": 22.19
+    "start": 17.6
    },
    {
     "word": "parte",
-    "start": 22.42
+    "start": 17.88
    },
    {
     "word": "esencial",
-    "start": 22.81
+    "start": 18.1
    },
    {
     "word": "de",
-    "start": 23.36
+    "start": 18.6
    },
    {
     "word": "nuestra",
-    "start": 23.59
+    "start": 18.74
    },
    {
     "word": "excelencia",
-    "start": 24.09
+    "start": 18.88
    },
    {
     "word": "operacional",
-    "start": 24.74
+    "start": 19.42
    },
    {
     "word": "y",
-    "start": 25.44
+    "start": 19.92
    },
    {
     "word": "de",
-    "start": 25.62
+    "start": 20.42
    },
    {
     "word": "nuestra",
-    "start": 25.85
+    "start": 20.52
    },
    {
     "word": "licencia",
-    "start": 26.35
+    "start": 20.66
    },
    {
     "word": "social",
-    "start": 26.89
+    "start": 21.22
    },
    {
     "word": "para",
-    "start": 27.34
+    "start": 21.58
    },
    {
     "word": "operar.",
-    "start": 27.67
+    "start": 21.74
    }
   ],
-  "source": "pendiente: Loc_11"
+  "source": "Loc_11_Arauco_culturaM3_1080p.mp4"
  },
  "cm-s12": {
-  "src": "audio/locuciones-pendientes/lamina-12-pendiente.mp3",
-  "duration": 27.49,
+  "src": "audio/locuciones-m3/lamina-12.mp3",
+  "duration": 23.223,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.47,
+    "start": 0.0,
+    "end": 5.26,
     "text": "Nuestra gestión operacional está avalada por los estándares internacionales FSC y"
    },
    {
-    "start": 5.47,
-    "end": 11.18,
+    "start": 5.26,
+    "end": 10.6,
     "text": "PEFC, los cuales exigen cumplir estrictos compromisos con los pueblos indígenas."
    },
    {
-    "start": 11.18,
-    "end": 17.35,
+    "start": 10.6,
+    "end": 15.44,
     "text": "Estos sellos imponen identificar participativamente los sitios sagrados, resguardar sus valores"
    },
    {
-    "start": 17.35,
-    "end": 21.39,
+    "start": 15.44,
+    "end": 19.24,
     "text": "y consultar de buena fe a las comunidades. Haz clic en"
    },
    {
-    "start": 21.39,
-    "end": 25.73,
+    "start": 19.24,
+    "end": 22.4,
     "text": "cada sello para revisar los requisitos que debemos cumplir en cada"
    },
    {
-    "start": 25.73,
-    "end": 27.49,
+    "start": 22.4,
+    "end": 23.22,
     "text": "faena."
    }
   ],
   "words": [
    {
     "word": "Nuestra",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "gestión",
-    "start": 0.84
+    "start": 0.66
    },
    {
     "word": "operacional",
-    "start": 1.34
+    "start": 0.98
    },
    {
     "word": "está",
-    "start": 2.04
+    "start": 1.48
    },
    {
     "word": "avalada",
-    "start": 2.38
+    "start": 1.76
    },
    {
     "word": "por",
-    "start": 2.87
+    "start": 2.18
    },
    {
     "word": "los",
-    "start": 3.16
+    "start": 2.34
    },
    {
     "word": "estándares",
-    "start": 3.44
+    "start": 2.46
    },
    {
     "word": "internacionales",
-    "start": 4.09
+    "start": 2.92
    },
    {
     "word": "FSC",
-    "start": 5.0
+    "start": 3.92
    },
    {
     "word": "y",
-    "start": 5.29
+    "start": 4.66
    },
    {
     "word": "PEFC,",
-    "start": 5.47
+    "start": 5.26
    },
    {
     "word": "los",
-    "start": 6.18
+    "start": 6.7
    },
    {
     "word": "cuales",
-    "start": 6.47
+    "start": 6.76
    },
    {
     "word": "exigen",
-    "start": 6.91
+    "start": 6.96
    },
    {
     "word": "cumplir",
-    "start": 7.35
+    "start": 7.46
    },
    {
     "word": "estrictos",
-    "start": 7.85
+    "start": 7.88
    },
    {
     "word": "compromisos",
-    "start": 8.44
+    "start": 8.36
    },
    {
     "word": "con",
-    "start": 9.15
+    "start": 8.9
    },
    {
     "word": "los",
-    "start": 9.43
+    "start": 9.06
    },
    {
     "word": "pueblos",
-    "start": 9.72
+    "start": 9.2
    },
    {
     "word": "indígenas.",
-    "start": 10.21
+    "start": 9.54
    },
    {
     "word": "Estos",
-    "start": 11.18
+    "start": 10.6
    },
    {
     "word": "sellos",
-    "start": 11.57
+    "start": 10.96
    },
    {
     "word": "imponen",
-    "start": 12.01
+    "start": 11.24
    },
    {
     "word": "identificar",
-    "start": 12.51
+    "start": 11.62
    },
    {
     "word": "participativamente",
-    "start": 13.21
+    "start": 12.2
    },
    {
     "word": "los",
-    "start": 14.28
+    "start": 13.22
    },
    {
     "word": "sitios",
-    "start": 14.56
+    "start": 13.44
    },
    {
     "word": "sagrados,",
-    "start": 15.0
+    "start": 13.76
    },
    {
     "word": "resguardar",
-    "start": 15.92
+    "start": 14.56
    },
    {
     "word": "sus",
-    "start": 16.57
+    "start": 15.02
    },
    {
     "word": "valores",
-    "start": 16.86
+    "start": 15.14
    },
    {
     "word": "y",
-    "start": 17.35
+    "start": 15.44
    },
    {
     "word": "consultar",
-    "start": 17.53
+    "start": 16.0
    },
    {
     "word": "de",
-    "start": 18.13
+    "start": 16.5
    },
    {
     "word": "buena",
-    "start": 18.37
+    "start": 16.62
    },
    {
     "word": "fe",
-    "start": 18.76
+    "start": 16.78
    },
    {
     "word": "a",
-    "start": 18.99
+    "start": 17.02
    },
    {
     "word": "las",
-    "start": 19.17
+    "start": 17.1
    },
    {
     "word": "comunidades.",
-    "start": 19.46
+    "start": 17.22
    },
    {
     "word": "Haz",
-    "start": 20.53
+    "start": 18.5
    },
    {
     "word": "clic",
-    "start": 20.82
+    "start": 18.78
    },
    {
     "word": "en",
-    "start": 21.16
+    "start": 18.96
    },
    {
     "word": "cada",
-    "start": 21.39
+    "start": 19.24
    },
    {
     "word": "sello",
-    "start": 21.73
+    "start": 19.42
    },
    {
     "word": "para",
-    "start": 22.12
+    "start": 19.78
    },
    {
     "word": "revisar",
-    "start": 22.46
+    "start": 19.96
    },
    {
     "word": "los",
-    "start": 22.95
+    "start": 20.4
    },
    {
     "word": "requisitos",
-    "start": 23.24
+    "start": 20.52
    },
    {
     "word": "que",
-    "start": 23.89
+    "start": 21.02
    },
    {
     "word": "debemos",
-    "start": 24.17
+    "start": 21.18
    },
    {
     "word": "cumplir",
-    "start": 24.67
+    "start": 21.52
    },
    {
     "word": "en",
-    "start": 25.16
+    "start": 21.96
    },
    {
     "word": "cada",
-    "start": 25.39
+    "start": 22.2
    },
    {
     "word": "faena.",
-    "start": 25.73
+    "start": 22.4
    }
   ],
-  "source": "pendiente: Loc_12"
+  "source": "Loc_12.mp3"
  },
  "cm-s13": {
-  "src": "audio/locuciones-pendientes/lamina-13-pendiente.mp3",
-  "duration": 29.07,
+  "src": "audio/locuciones-m3/lamina-13.mp3",
+  "duration": 22.7,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.06,
+    "start": 0.0,
+    "end": 3.4,
     "text": "Arauco adhiere además a los Principios Rectores sobre Empresas y Derechos"
    },
    {
-    "start": 5.06,
-    "end": 10.19,
+    "start": 3.4,
+    "end": 7.94,
     "text": "Humanos de las Naciones Unidas. Esto significa aplicar debida diligencia en"
    },
    {
-    "start": 10.19,
-    "end": 14.63,
+    "start": 7.94,
+    "end": 11.5,
     "text": "faena y asegurar la trazabilidad de cada compromiso acordado con las"
    },
    {
-    "start": 14.63,
-    "end": 21.28,
+    "start": 11.5,
+    "end": 17.04,
     "text": "comunidades. Cada zona protegida es auditada por organismos internacionales; cumplir rigurosamente"
    },
    {
-    "start": 21.28,
-    "end": 26.4,
+    "start": 17.04,
+    "end": 21.48,
     "text": "estas medidas resguarda la dignidad cultural y protege la continuidad operacional"
    },
    {
-    "start": 26.4,
-    "end": 29.07,
+    "start": 21.48,
+    "end": 22.7,
     "text": "de toda la empresa."
    }
   ],
   "words": [
    {
     "word": "Arauco",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "adhiere",
-    "start": 0.79
+    "start": 0.64
    },
    {
     "word": "además",
-    "start": 1.29
+    "start": 0.92
    },
    {
     "word": "a",
-    "start": 1.73
+    "start": 1.2
    },
    {
     "word": "los",
-    "start": 1.91
+    "start": 1.34
    },
    {
     "word": "Principios",
-    "start": 2.2
+    "start": 1.46
    },
    {
     "word": "Rectores",
-    "start": 2.85
+    "start": 1.94
    },
    {
     "word": "sobre",
-    "start": 3.39
+    "start": 2.38
    },
    {
     "word": "Empresas",
-    "start": 3.78
+    "start": 2.58
    },
    {
     "word": "y",
-    "start": 4.33
+    "start": 2.94
    },
    {
     "word": "Derechos",
-    "start": 4.51
+    "start": 3.14
    },
    {
     "word": "Humanos",
-    "start": 5.06
+    "start": 3.4
    },
    {
     "word": "de",
-    "start": 5.55
+    "start": 3.76
    },
    {
     "word": "las",
-    "start": 5.78
+    "start": 4.2
    },
    {
     "word": "Naciones",
-    "start": 6.07
+    "start": 4.36
    },
    {
     "word": "Unidas.",
-    "start": 6.62
+    "start": 4.74
    },
    {
     "word": "Esto",
-    "start": 7.43
+    "start": 5.8
    },
    {
     "word": "significa",
-    "start": 7.77
+    "start": 6.12
    },
    {
     "word": "aplicar",
-    "start": 8.37
+    "start": 6.46
    },
    {
     "word": "debida",
-    "start": 8.86
+    "start": 7.0
    },
    {
     "word": "diligencia",
-    "start": 9.3
+    "start": 7.3
    },
    {
     "word": "en",
-    "start": 9.95
+    "start": 7.84
    },
    {
     "word": "faena",
-    "start": 10.19
+    "start": 7.94
    },
    {
     "word": "y",
-    "start": 10.58
+    "start": 8.3
    },
    {
     "word": "asegurar",
-    "start": 10.76
+    "start": 8.68
    },
    {
     "word": "la",
-    "start": 11.3
+    "start": 9.06
    },
    {
     "word": "trazabilidad",
-    "start": 11.54
+    "start": 9.2
    },
    {
     "word": "de",
-    "start": 12.29
+    "start": 9.82
    },
    {
     "word": "cada",
-    "start": 12.53
+    "start": 9.96
    },
    {
     "word": "compromiso",
-    "start": 12.86
+    "start": 10.18
    },
    {
     "word": "acordado",
-    "start": 13.51
+    "start": 10.74
    },
    {
     "word": "con",
-    "start": 14.06
+    "start": 11.2
    },
    {
     "word": "las",
-    "start": 14.35
+    "start": 11.34
    },
    {
     "word": "comunidades.",
-    "start": 14.63
+    "start": 11.5
    },
    {
     "word": "Cada",
-    "start": 15.71
+    "start": 12.68
    },
    {
     "word": "zona",
-    "start": 16.04
+    "start": 12.86
    },
    {
     "word": "protegida",
-    "start": 16.38
+    "start": 13.06
    },
    {
     "word": "es",
-    "start": 16.98
+    "start": 13.66
    },
    {
     "word": "auditada",
-    "start": 17.21
+    "start": 13.76
    },
    {
     "word": "por",
-    "start": 17.76
+    "start": 14.18
    },
    {
     "word": "organismos",
-    "start": 18.05
+    "start": 14.36
    },
    {
     "word": "internacionales;",
-    "start": 18.7
+    "start": 14.88
    },
    {
     "word": "cumplir",
-    "start": 19.98
+    "start": 16.1
    },
    {
     "word": "rigurosamente",
-    "start": 20.47
+    "start": 16.52
    },
    {
     "word": "estas",
-    "start": 21.28
+    "start": 17.04
    },
    {
     "word": "medidas",
-    "start": 21.67
+    "start": 17.34
    },
    {
     "word": "resguarda",
-    "start": 22.16
+    "start": 17.72
    },
    {
     "word": "la",
-    "start": 22.76
+    "start": 18.58
    },
    {
     "word": "dignidad",
-    "start": 22.99
+    "start": 18.7
    },
    {
     "word": "cultural",
-    "start": 23.54
+    "start": 19.08
    },
    {
     "word": "y",
-    "start": 24.09
+    "start": 19.5
    },
    {
     "word": "protege",
-    "start": 24.27
+    "start": 19.94
    },
    {
     "word": "la",
-    "start": 24.76
+    "start": 20.32
    },
    {
     "word": "continuidad",
-    "start": 25.0
+    "start": 20.44
    },
    {
     "word": "operacional",
-    "start": 25.7
+    "start": 20.96
    },
    {
     "word": "de",
-    "start": 26.4
+    "start": 21.48
    },
    {
     "word": "toda",
-    "start": 26.63
+    "start": 21.7
    },
    {
     "word": "la",
-    "start": 26.97
+    "start": 21.88
    },
    {
     "word": "empresa.",
-    "start": 27.21
+    "start": 22.06
    }
   ],
-  "source": "pendiente: Loc_13"
+  "source": "Loc_13.mp3"
  },
  "cm-s14": {
-  "src": "audio/locuciones-pendientes/lamina-14-pendiente.mp3",
-  "duration": 32.64,
+  "src": "audio/locuciones-m3/lamina-14.mp3",
+  "duration": 24.738,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.12,
+    "start": 0.0,
+    "end": 3.74,
     "text": "Vayamos al día a día. Durante la apertura de caminos, cosechas"
    },
    {
-    "start": 5.12,
-    "end": 10.15,
+    "start": 3.74,
+    "end": 7.52,
     "text": "o preparación de suelos, pueden emerger restos históricos ocultos bajo la"
    },
    {
-    "start": 10.15,
-    "end": 16.13,
+    "start": 7.52,
+    "end": 12.34,
     "text": "tierra: trozos de cerámica antigua, piedras talladas para molienda, conchales o"
    },
    {
-    "start": 16.13,
-    "end": 22.3,
+    "start": 12.34,
+    "end": 17.86,
     "text": "restos óseos ancestrales. Reconocer oportunamente estos indicios visuales es indispensable para"
    },
    {
-    "start": 22.3,
-    "end": 27.07,
+    "start": 17.86,
+    "end": 21.52,
     "text": "activar los protocolos de resguardo. La regla de oro es clara:"
    },
    {
-    "start": 27.07,
-    "end": 32.64,
+    "start": 21.52,
+    "end": 24.74,
     "text": "ante cualquier sospecha, actúa siempre con la máxima cautela."
    }
   ],
   "words": [
    {
     "word": "Vayamos",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "al",
-    "start": 0.84
+    "start": 0.44
    },
    {
     "word": "día",
-    "start": 1.08
+    "start": 0.64
    },
    {
     "word": "a",
-    "start": 1.36
+    "start": 0.8
    },
    {
     "word": "día.",
-    "start": 1.55
+    "start": 0.9
    },
    {
     "word": "Durante",
-    "start": 2.2
+    "start": 1.66
    },
    {
     "word": "la",
-    "start": 2.7
+    "start": 2.0
    },
    {
     "word": "apertura",
-    "start": 2.93
+    "start": 2.12
    },
    {
     "word": "de",
-    "start": 3.48
+    "start": 2.46
    },
    {
     "word": "caminos,",
-    "start": 3.71
+    "start": 2.6
    },
    {
     "word": "cosechas",
-    "start": 4.58
+    "start": 3.22
    },
    {
     "word": "o",
-    "start": 5.12
+    "start": 3.74
    },
    {
     "word": "preparación",
-    "start": 5.31
+    "start": 3.92
    },
    {
     "word": "de",
-    "start": 6.01
+    "start": 4.38
    },
    {
     "word": "suelos,",
-    "start": 6.24
+    "start": 4.5
    },
    {
     "word": "pueden",
-    "start": 7.06
+    "start": 5.14
    },
    {
     "word": "emerger",
-    "start": 7.5
+    "start": 5.46
    },
    {
     "word": "restos",
-    "start": 7.99
+    "start": 5.88
    },
    {
     "word": "históricos",
-    "start": 8.43
+    "start": 6.24
    },
    {
     "word": "ocultos",
-    "start": 9.08
+    "start": 6.8
    },
    {
     "word": "bajo",
-    "start": 9.58
+    "start": 7.22
    },
    {
     "word": "la",
-    "start": 9.92
+    "start": 7.34
    },
    {
     "word": "tierra:",
-    "start": 10.15
+    "start": 7.52
    },
    {
     "word": "trozos",
-    "start": 10.96
+    "start": 8.3
    },
    {
     "word": "de",
-    "start": 11.41
+    "start": 8.66
    },
    {
     "word": "cerámica",
-    "start": 11.64
+    "start": 8.74
    },
    {
     "word": "antigua,",
-    "start": 12.19
+    "start": 9.14
    },
    {
     "word": "piedras",
-    "start": 13.05
+    "start": 9.88
    },
    {
     "word": "talladas",
-    "start": 13.55
+    "start": 10.18
    },
    {
     "word": "para",
-    "start": 14.09
+    "start": 10.58
    },
    {
     "word": "molienda,",
-    "start": 14.43
+    "start": 10.8
    },
    {
     "word": "conchales",
-    "start": 15.35
+    "start": 11.68
    },
    {
     "word": "o",
-    "start": 15.95
+    "start": 12.08
    },
    {
     "word": "restos",
-    "start": 16.13
+    "start": 12.34
    },
    {
     "word": "óseos",
-    "start": 16.57
+    "start": 12.64
    },
    {
     "word": "ancestrales.",
-    "start": 16.96
+    "start": 12.94
    },
    {
     "word": "Reconocer",
-    "start": 18.03
+    "start": 14.36
    },
    {
     "word": "oportunamente",
-    "start": 18.63
+    "start": 14.92
    },
    {
     "word": "estos",
-    "start": 19.44
+    "start": 15.52
    },
    {
     "word": "indicios",
-    "start": 19.83
+    "start": 15.76
    },
    {
     "word": "visuales",
-    "start": 20.37
+    "start": 16.24
    },
    {
     "word": "es",
-    "start": 20.92
+    "start": 16.8
    },
    {
     "word": "indispensable",
-    "start": 21.15
+    "start": 16.94
    },
    {
     "word": "para",
-    "start": 21.96
+    "start": 17.54
    },
    {
     "word": "activar",
-    "start": 22.3
+    "start": 17.86
    },
    {
     "word": "los",
-    "start": 22.79
+    "start": 18.24
    },
    {
     "word": "protocolos",
-    "start": 23.08
+    "start": 18.36
    },
    {
     "word": "de",
-    "start": 23.73
+    "start": 18.94
    },
    {
     "word": "resguardo.",
-    "start": 23.96
+    "start": 19.0
    },
    {
     "word": "La",
-    "start": 24.93
+    "start": 20.02
    },
    {
     "word": "regla",
-    "start": 25.17
+    "start": 20.2
    },
    {
     "word": "de",
-    "start": 25.56
+    "start": 20.46
    },
    {
     "word": "oro",
-    "start": 25.79
+    "start": 20.58
    },
    {
     "word": "es",
-    "start": 26.08
+    "start": 20.72
    },
    {
     "word": "clara:",
-    "start": 26.31
+    "start": 20.86
    },
    {
     "word": "ante",
-    "start": 27.07
+    "start": 21.52
    },
    {
     "word": "cualquier",
-    "start": 27.41
+    "start": 21.76
    },
    {
     "word": "sospecha,",
-    "start": 28.01
+    "start": 21.94
    },
    {
     "word": "actúa",
-    "start": 28.93
+    "start": 22.86
    },
    {
     "word": "siempre",
-    "start": 29.32
+    "start": 23.02
    },
    {
     "word": "con",
-    "start": 29.81
+    "start": 23.28
    },
    {
     "word": "la",
-    "start": 30.1
+    "start": 23.48
    },
    {
     "word": "máxima",
-    "start": 30.33
+    "start": 23.6
    },
    {
     "word": "cautela.",
-    "start": 30.77
+    "start": 24.02
    }
   ],
-  "source": "pendiente: Loc_14"
+  "source": "Loc_14.mp3"
  },
  "cm-s15": {
-  "src": "audio/locuciones-pendientes/lamina-15-pendiente.mp3",
-  "duration": 24.64,
+  "src": "audio/locuciones-m3/lamina-15.mp3",
+  "duration": 17.763,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.84,
+    "start": 0.0,
+    "end": 4.34,
     "text": "Ante el hallazgo imprevisto de restos culturales, aplicamos estrictamente la Regla"
    },
    {
-    "start": 5.84,
-    "end": 10.25,
+    "start": 4.34,
+    "end": 7.76,
     "text": "de Oro en tres pasos: detener la faena de inmediato, no"
    },
    {
-    "start": 10.25,
-    "end": 15.64,
+    "start": 7.76,
+    "end": 11.86,
     "text": "manipular ni desenterrar ningún elemento, y delimitar un perímetro de protección"
    },
    {
-    "start": 15.64,
-    "end": 19.53,
+    "start": 11.86,
+    "end": 14.8,
     "text": "con cinta visible. Haz clic en cada una de las tres"
    },
    {
-    "start": 19.53,
-    "end": 24.64,
+    "start": 14.8,
+    "end": 17.76,
     "text": "acciones para conocer cómo actuar paso a paso en terreno."
    }
   ],
   "words": [
    {
     "word": "Ante",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "el",
-    "start": 0.69
+    "start": 0.62
    },
    {
     "word": "hallazgo",
-    "start": 0.92
+    "start": 0.66
    },
    {
     "word": "imprevisto",
-    "start": 1.47
+    "start": 0.96
    },
    {
     "word": "de",
-    "start": 2.12
+    "start": 1.4
    },
    {
     "word": "restos",
-    "start": 2.35
+    "start": 1.54
    },
    {
     "word": "culturales,",
-    "start": 2.79
+    "start": 1.86
    },
    {
     "word": "aplicamos",
-    "start": 3.82
+    "start": 2.7
    },
    {
     "word": "estrictamente",
-    "start": 4.41
+    "start": 3.18
    },
    {
     "word": "la",
-    "start": 5.22
+    "start": 3.84
    },
    {
     "word": "Regla",
-    "start": 5.45
+    "start": 4.02
    },
    {
     "word": "de",
-    "start": 5.84
+    "start": 4.34
    },
    {
     "word": "Oro",
-    "start": 6.08
+    "start": 4.46
    },
    {
     "word": "en",
-    "start": 6.36
+    "start": 4.58
    },
    {
     "word": "tres",
-    "start": 6.6
+    "start": 4.74
    },
    {
     "word": "pasos:",
-    "start": 6.94
+    "start": 4.88
    },
    {
     "word": "detener",
-    "start": 7.7
+    "start": 5.74
    },
    {
     "word": "la",
-    "start": 8.19
+    "start": 6.16
    },
    {
     "word": "faena",
-    "start": 8.43
+    "start": 6.3
    },
    {
     "word": "de",
-    "start": 8.82
+    "start": 6.6
    },
    {
     "word": "inmediato,",
-    "start": 9.05
+    "start": 6.72
    },
    {
     "word": "no",
-    "start": 10.02
+    "start": 7.64
    },
    {
     "word": "manipular",
-    "start": 10.25
+    "start": 7.76
    },
    {
     "word": "ni",
-    "start": 10.85
+    "start": 8.28
    },
    {
     "word": "desenterrar",
-    "start": 11.09
+    "start": 8.42
    },
    {
     "word": "ningún",
-    "start": 11.79
+    "start": 9.0
    },
    {
     "word": "elemento,",
-    "start": 12.23
+    "start": 9.24
    },
    {
     "word": "y",
-    "start": 13.15
+    "start": 10.24
    },
    {
     "word": "delimitar",
-    "start": 13.33
+    "start": 10.26
    },
    {
     "word": "un",
-    "start": 13.93
+    "start": 10.68
    },
    {
     "word": "perímetro",
-    "start": 14.16
+    "start": 10.82
    },
    {
     "word": "de",
-    "start": 14.76
+    "start": 11.24
    },
    {
     "word": "protección",
-    "start": 14.99
+    "start": 11.36
    },
    {
     "word": "con",
-    "start": 15.64
+    "start": 11.86
    },
    {
     "word": "cinta",
-    "start": 15.93
+    "start": 12.06
    },
    {
     "word": "visible.",
-    "start": 16.32
+    "start": 12.34
    },
    {
     "word": "Haz",
-    "start": 17.19
+    "start": 13.38
    },
    {
     "word": "clic",
-    "start": 17.47
+    "start": 13.64
    },
    {
     "word": "en",
-    "start": 17.81
+    "start": 13.84
    },
    {
     "word": "cada",
-    "start": 18.04
+    "start": 14.04
    },
    {
     "word": "una",
-    "start": 18.38
+    "start": 14.2
    },
    {
     "word": "de",
-    "start": 18.67
+    "start": 14.42
    },
    {
     "word": "las",
-    "start": 18.9
+    "start": 14.52
    },
    {
     "word": "tres",
-    "start": 19.19
+    "start": 14.66
    },
    {
     "word": "acciones",
-    "start": 19.53
+    "start": 14.8
    },
    {
     "word": "para",
-    "start": 20.07
+    "start": 15.2
    },
    {
     "word": "conocer",
-    "start": 20.41
+    "start": 15.44
    },
    {
     "word": "cómo",
-    "start": 20.9
+    "start": 15.76
    },
    {
     "word": "actuar",
-    "start": 21.24
+    "start": 16.06
    },
    {
     "word": "paso",
-    "start": 21.68
+    "start": 16.36
    },
    {
     "word": "a",
-    "start": 22.02
+    "start": 16.58
    },
    {
     "word": "paso",
-    "start": 22.2
+    "start": 16.7
    },
    {
     "word": "en",
-    "start": 22.54
+    "start": 16.88
    },
    {
     "word": "terreno.",
-    "start": 22.78
+    "start": 17.02
    }
   ],
-  "source": "pendiente: Loc_15"
+  "source": "Loc_15.mp3"
  },
  "cm-s16": {
-  "src": "audio/locuciones-pendientes/lamina-16-pendiente.mp3",
-  "duration": 29.17,
+  "src": "audio/locuciones-m3/lamina-16.mp3",
+  "duration": 20.924,
   "cues": [
    {
-    "start": 0.35,
-    "end": 4.96,
+    "start": 0.0,
+    "end": 3.28,
     "text": "Una vez delimitado el sector, se activa la cadena de comunicación"
    },
    {
-    "start": 4.96,
-    "end": 10.25,
+    "start": 3.28,
+    "end": 7.34,
     "text": "formal. El operador notifica a su supervisor, quien informa de inmediato"
    },
    {
-    "start": 10.25,
-    "end": 15.23,
+    "start": 7.34,
+    "end": 11.04,
     "text": "a los equipos de Medio Ambiente y Relacionamiento Comunitario de Arauco."
    },
    {
-    "start": 15.23,
-    "end": 20.62,
+    "start": 11.04,
+    "end": 14.96,
     "text": "La empresa coordina la inspección de arqueólogos autorizados, informa al Consejo"
    },
    {
-    "start": 20.62,
-    "end": 25.43,
+    "start": 14.96,
+    "end": 18.8,
     "text": "de Monumentos Nacionales y dialoga con las comunidades locales para acordar"
    },
    {
-    "start": 25.43,
-    "end": 29.17,
+    "start": 18.8,
+    "end": 20.92,
     "text": "las medidas definitivas de protección."
    }
   ],
   "words": [
    {
     "word": "Una",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "vez",
-    "start": 0.64
+    "start": 0.36
    },
    {
     "word": "delimitado",
-    "start": 0.92
+    "start": 0.52
    },
    {
     "word": "el",
-    "start": 1.57
+    "start": 1.04
    },
    {
     "word": "sector,",
-    "start": 1.81
+    "start": 1.14
    },
    {
     "word": "se",
-    "start": 2.62
+    "start": 1.74
    },
    {
     "word": "activa",
-    "start": 2.85
+    "start": 1.88
    },
    {
     "word": "la",
-    "start": 3.3
+    "start": 2.2
    },
    {
     "word": "cadena",
-    "start": 3.53
+    "start": 2.26
    },
    {
     "word": "de",
-    "start": 3.97
+    "start": 2.58
    },
    {
     "word": "comunicación",
-    "start": 4.21
+    "start": 2.7
    },
    {
     "word": "formal.",
-    "start": 4.96
+    "start": 3.28
    },
    {
     "word": "El",
-    "start": 5.77
+    "start": 4.22
    },
    {
     "word": "operador",
-    "start": 6.01
+    "start": 4.38
    },
    {
     "word": "notifica",
-    "start": 6.55
+    "start": 4.72
    },
    {
     "word": "a",
-    "start": 7.1
+    "start": 5.24
    },
    {
     "word": "su",
-    "start": 7.28
+    "start": 5.38
    },
    {
     "word": "supervisor,",
-    "start": 7.52
+    "start": 5.46
    },
    {
     "word": "quien",
-    "start": 8.54
+    "start": 6.22
    },
    {
     "word": "informa",
-    "start": 8.93
+    "start": 6.42
    },
    {
     "word": "de",
-    "start": 9.42
+    "start": 6.84
    },
    {
     "word": "inmediato",
-    "start": 9.66
+    "start": 6.92
    },
    {
     "word": "a",
-    "start": 10.25
+    "start": 7.34
    },
    {
     "word": "los",
-    "start": 10.44
+    "start": 7.42
    },
    {
     "word": "equipos",
-    "start": 10.72
+    "start": 7.52
    },
    {
     "word": "de",
-    "start": 11.22
+    "start": 7.92
    },
    {
     "word": "Medio",
-    "start": 11.45
+    "start": 8.0
    },
    {
     "word": "Ambiente",
-    "start": 11.84
+    "start": 8.18
    },
    {
     "word": "y",
-    "start": 12.39
+    "start": 8.54
    },
    {
     "word": "Relacionamiento",
-    "start": 12.57
+    "start": 8.68
    },
    {
     "word": "Comunitario",
-    "start": 13.48
+    "start": 9.3
    },
    {
     "word": "de",
-    "start": 14.18
+    "start": 9.98
    },
    {
     "word": "Arauco.",
-    "start": 14.41
+    "start": 10.06
    },
    {
     "word": "La",
-    "start": 15.23
+    "start": 11.04
    },
    {
     "word": "empresa",
-    "start": 15.46
+    "start": 11.18
    },
    {
     "word": "coordina",
-    "start": 15.96
+    "start": 11.4
    },
    {
     "word": "la",
-    "start": 16.5
+    "start": 11.9
    },
    {
     "word": "inspección",
-    "start": 16.74
+    "start": 12.02
    },
    {
     "word": "de",
-    "start": 17.39
+    "start": 12.44
    },
    {
     "word": "arqueólogos",
-    "start": 17.62
+    "start": 12.56
    },
    {
     "word": "autorizados,",
-    "start": 18.32
+    "start": 13.04
    },
    {
     "word": "informa",
-    "start": 19.4
+    "start": 14.06
    },
    {
     "word": "al",
-    "start": 19.89
+    "start": 14.54
    },
    {
     "word": "Consejo",
-    "start": 20.12
+    "start": 14.6
    },
    {
     "word": "de",
-    "start": 20.62
+    "start": 14.96
    },
    {
     "word": "Monumentos",
-    "start": 20.85
+    "start": 15.06
    },
    {
     "word": "Nacionales",
-    "start": 21.5
+    "start": 15.56
    },
    {
     "word": "y",
-    "start": 22.15
+    "start": 16.22
    },
    {
     "word": "dialoga",
-    "start": 22.33
+    "start": 16.56
    },
    {
     "word": "con",
-    "start": 22.83
+    "start": 16.92
    },
    {
     "word": "las",
-    "start": 23.11
+    "start": 17.06
    },
    {
     "word": "comunidades",
-    "start": 23.4
+    "start": 17.2
    },
    {
     "word": "locales",
-    "start": 24.1
+    "start": 17.68
    },
    {
     "word": "para",
-    "start": 24.6
+    "start": 18.18
    },
    {
     "word": "acordar",
-    "start": 24.93
+    "start": 18.34
    },
    {
     "word": "las",
-    "start": 25.43
+    "start": 18.8
    },
    {
     "word": "medidas",
-    "start": 25.71
+    "start": 18.9
    },
    {
     "word": "definitivas",
-    "start": 26.21
+    "start": 19.16
    },
    {
     "word": "de",
-    "start": 26.91
+    "start": 19.88
    },
    {
     "word": "protección.",
-    "start": 27.14
+    "start": 19.98
    }
   ],
-  "source": "pendiente: Loc_16"
+  "source": "Loc_16.mp3"
  },
  "cm-s17": {
-  "src": "audio/locuciones-pendientes/lamina-17-pendiente.mp3",
-  "duration": 28.4,
+  "src": "avatar/avatar-17.m4a",
+  "duration": 21.696,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.54,
+    "start": 0.0,
+    "end": 4.18,
     "text": "Analicemos ahora este caso práctico: durante la apertura de un camino,"
    },
    {
-    "start": 5.54,
-    "end": 10.05,
+    "start": 4.18,
+    "end": 7.4,
     "text": "un operador observa trozos de alfarería antigua en el talud. De"
    },
    {
-    "start": 10.05,
-    "end": 15.76,
+    "start": 7.4,
+    "end": 11.58,
     "text": "inmediato, apaga la máquina, evita tocar los elementos, delimita el sector"
    },
    {
-    "start": 15.76,
-    "end": 19.53,
+    "start": 11.58,
+    "end": 14.52,
     "text": "con cinta visible y avisa por radio a su supervisor con"
    },
    {
-    "start": 19.53,
-    "end": 24.61,
+    "start": 14.52,
+    "end": 19.58,
     "text": "la coordenada GPS. Esta conducta ejemplar protegió el patrimonio y cumplió"
    },
    {
-    "start": 24.61,
-    "end": 28.4,
+    "start": 19.58,
+    "end": 21.7,
     "text": "estrictamente los estándares de Arauco."
    }
   ],
   "words": [
    {
     "word": "Analicemos",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "ahora",
-    "start": 1.0
+    "start": 0.9
    },
    {
     "word": "este",
-    "start": 1.39
-   },
-   {
-    "word": "caso",
-    "start": 1.73
-   },
-   {
-    "word": "práctico:",
-    "start": 2.07
-   },
-   {
-    "word": "durante",
-    "start": 2.98
-   },
-   {
-    "word": "la",
-    "start": 3.48
-   },
-   {
-    "word": "apertura",
-    "start": 3.71
-   },
-   {
-    "word": "de",
-    "start": 4.26
-   },
-   {
-    "word": "un",
-    "start": 4.49
-   },
-   {
-    "word": "camino,",
-    "start": 4.73
-   },
-   {
-    "word": "un",
-    "start": 5.54
-   },
-   {
-    "word": "operador",
-    "start": 5.77
-   },
-   {
-    "word": "observa",
-    "start": 6.32
-   },
-   {
-    "word": "trozos",
-    "start": 6.81
-   },
-   {
-    "word": "de",
-    "start": 7.26
-   },
-   {
-    "word": "alfarería",
-    "start": 7.49
-   },
-   {
-    "word": "antigua",
-    "start": 8.09
-   },
-   {
-    "word": "en",
-    "start": 8.58
-   },
-   {
-    "word": "el",
-    "start": 8.82
-   },
-   {
-    "word": "talud.",
-    "start": 9.05
-   },
-   {
-    "word": "De",
-    "start": 9.81
-   },
-   {
-    "word": "inmediato,",
-    "start": 10.05
-   },
-   {
-    "word": "apaga",
-    "start": 11.02
-   },
-   {
-    "word": "la",
-    "start": 11.41
-   },
-   {
-    "word": "máquina,",
-    "start": 11.64
-   },
-   {
-    "word": "evita",
-    "start": 12.51
-   },
-   {
-    "word": "tocar",
-    "start": 12.9
-   },
-   {
-    "word": "los",
-    "start": 13.29
-   },
-   {
-    "word": "elementos,",
-    "start": 13.57
-   },
-   {
-    "word": "delimita",
-    "start": 14.54
-   },
-   {
-    "word": "el",
-    "start": 15.09
-   },
-   {
-    "word": "sector",
-    "start": 15.32
-   },
-   {
-    "word": "con",
-    "start": 15.76
-   },
-   {
-    "word": "cinta",
-    "start": 16.05
-   },
-   {
-    "word": "visible",
-    "start": 16.44
-   },
-   {
-    "word": "y",
-    "start": 16.93
-   },
-   {
-    "word": "avisa",
-    "start": 17.12
-   },
-   {
-    "word": "por",
-    "start": 17.51
-   },
-   {
-    "word": "radio",
-    "start": 17.79
-   },
-   {
-    "word": "a",
-    "start": 18.18
-   },
-   {
-    "word": "su",
-    "start": 18.36
-   },
-   {
-    "word": "supervisor",
-    "start": 18.6
-   },
-   {
-    "word": "con",
-    "start": 19.25
-   },
-   {
-    "word": "la",
-    "start": 19.53
-   },
-   {
-    "word": "coordenada",
-    "start": 19.77
-   },
-   {
-    "word": "GPS.",
-    "start": 20.42
-   },
-   {
-    "word": "Esta",
-    "start": 21.08
-   },
-   {
-    "word": "conducta",
-    "start": 21.41
-   },
-   {
-    "word": "ejemplar",
-    "start": 21.96
-   },
-   {
-    "word": "protegió",
-    "start": 22.51
-   },
-   {
-    "word": "el",
-    "start": 23.05
-   },
-   {
-    "word": "patrimonio",
-    "start": 23.29
-   },
-   {
-    "word": "y",
-    "start": 23.94
-   },
-   {
-    "word": "cumplió",
-    "start": 24.12
-   },
-   {
-    "word": "estrictamente",
-    "start": 24.61
-   },
-   {
-    "word": "los",
-    "start": 25.42
-   },
-   {
-    "word": "estándares",
-    "start": 25.7
-   },
-   {
-    "word": "de",
-    "start": 26.35
-   },
-   {
-    "word": "Arauco.",
-    "start": 26.59
-   }
-  ],
-  "source": "pendiente: Loc_17"
- },
- "cm-s18": {
-  "src": "audio/locuciones-pendientes/lamina-18-pendiente.mp3",
-  "duration": 15.6,
-  "cues": [
-   {
-    "start": 0.35,
-    "end": 5.06,
-    "text": "Consolidemos lo aprendido en esta última etapa. Lee con atención la"
-   },
-   {
-    "start": 5.06,
-    "end": 10.92,
-    "text": "pregunta sobre certificaciones internacionales y Áreas de Alto Valor Cultural, selecciona"
-   },
-   {
-    "start": 10.92,
-    "end": 15.6,
-    "text": "la alternativa correcta y presiona Validar respuesta."
-   }
-  ],
-  "words": [
-   {
-    "word": "Consolidemos",
-    "start": 0.35
-   },
-   {
-    "word": "lo",
     "start": 1.1
    },
    {
-    "word": "aprendido",
-    "start": 1.34
+    "word": "caso",
+    "start": 1.32
    },
    {
-    "word": "en",
-    "start": 1.94
+    "word": "práctico:",
+    "start": 1.52
    },
    {
-    "word": "esta",
-    "start": 2.17
-   },
-   {
-    "word": "última",
-    "start": 2.51
-   },
-   {
-    "word": "etapa.",
-    "start": 2.95
-   },
-   {
-    "word": "Lee",
-    "start": 3.71
-   },
-   {
-    "word": "con",
-    "start": 4.0
-   },
-   {
-    "word": "atención",
-    "start": 4.28
+    "word": "durante",
+    "start": 2.56
    },
    {
     "word": "la",
-    "start": 4.83
+    "start": 2.78
    },
    {
-    "word": "pregunta",
-    "start": 5.06
-   },
-   {
-    "word": "sobre",
-    "start": 5.61
-   },
-   {
-    "word": "certificaciones",
-    "start": 6.0
-   },
-   {
-    "word": "internacionales",
-    "start": 6.91
-   },
-   {
-    "word": "y",
-    "start": 7.82
-   },
-   {
-    "word": "Áreas",
-    "start": 8.0
+    "word": "apertura",
+    "start": 2.9
    },
    {
     "word": "de",
-    "start": 8.39
+    "start": 3.26
    },
    {
-    "word": "Alto",
-    "start": 8.63
+    "word": "un",
+    "start": 3.36
    },
    {
-    "word": "Valor",
-    "start": 8.96
+    "word": "camino,",
+    "start": 3.44
    },
    {
-    "word": "Cultural,",
-    "start": 9.35
+    "word": "un",
+    "start": 4.18
    },
    {
-    "word": "selecciona",
-    "start": 10.27
+    "word": "operador",
+    "start": 4.26
+   },
+   {
+    "word": "observa",
+    "start": 4.62
+   },
+   {
+    "word": "trozos",
+    "start": 5.06
+   },
+   {
+    "word": "de",
+    "start": 5.38
+   },
+   {
+    "word": "alfarería",
+    "start": 5.5
+   },
+   {
+    "word": "antigua",
+    "start": 5.89
+   },
+   {
+    "word": "en",
+    "start": 6.28
+   },
+   {
+    "word": "el",
+    "start": 6.34
+   },
+   {
+    "word": "talud.",
+    "start": 6.46
+   },
+   {
+    "word": "De",
+    "start": 7.22
+   },
+   {
+    "word": "inmediato,",
+    "start": 7.4
+   },
+   {
+    "word": "apaga",
+    "start": 7.9
    },
    {
     "word": "la",
-    "start": 10.92
+    "start": 8.34
    },
    {
-    "word": "alternativa",
-    "start": 11.16
+    "word": "máquina,",
+    "start": 8.46
    },
    {
-    "word": "correcta",
-    "start": 11.86
+    "word": "evita",
+    "start": 9.22
+   },
+   {
+    "word": "tocar",
+    "start": 9.46
+   },
+   {
+    "word": "los",
+    "start": 9.7
+   },
+   {
+    "word": "elementos,",
+    "start": 9.9
+   },
+   {
+    "word": "delimita",
+    "start": 10.86
+   },
+   {
+    "word": "el",
+    "start": 11.22
+   },
+   {
+    "word": "sector",
+    "start": 11.32
+   },
+   {
+    "word": "con",
+    "start": 11.58
+   },
+   {
+    "word": "cinta",
+    "start": 11.82
+   },
+   {
+    "word": "visible",
+    "start": 12.06
    },
    {
     "word": "y",
     "start": 12.4
    },
    {
+    "word": "avisa",
+    "start": 12.92
+   },
+   {
+    "word": "por",
+    "start": 13.22
+   },
+   {
+    "word": "radio",
+    "start": 13.4
+   },
+   {
+    "word": "a",
+    "start": 13.64
+   },
+   {
+    "word": "su",
+    "start": 13.76
+   },
+   {
+    "word": "supervisor",
+    "start": 13.84
+   },
+   {
+    "word": "con",
+    "start": 14.26
+   },
+   {
+    "word": "la",
+    "start": 14.52
+   },
+   {
+    "word": "coordenada",
+    "start": 14.64
+   },
+   {
+    "word": "GPS.",
+    "start": 15.12
+   },
+   {
+    "word": "Esta",
+    "start": 16.76
+   },
+   {
+    "word": "conducta",
+    "start": 17.12
+   },
+   {
+    "word": "ejemplar",
+    "start": 17.56
+   },
+   {
+    "word": "protegió",
+    "start": 17.96
+   },
+   {
+    "word": "el",
+    "start": 18.46
+   },
+   {
+    "word": "patrimonio",
+    "start": 18.52
+   },
+   {
+    "word": "y",
+    "start": 19.1
+   },
+   {
+    "word": "cumplió",
+    "start": 19.26
+   },
+   {
+    "word": "estrictamente",
+    "start": 19.58
+   },
+   {
+    "word": "los",
+    "start": 20.12
+   },
+   {
+    "word": "estándares",
+    "start": 20.32
+   },
+   {
+    "word": "de",
+    "start": 20.8
+   },
+   {
+    "word": "Arauco.",
+    "start": 20.96
+   }
+  ],
+  "source": "Loc_17_Arauco_culturaM3_1080p.mp4"
+ },
+ "cm-s18": {
+  "src": "audio/locuciones-m3/lamina-18.mp3",
+  "duration": 11.598,
+  "cues": [
+   {
+    "start": 0.0,
+    "end": 3.68,
+    "text": "Consolidemos lo aprendido en esta última etapa. Lee con atención la"
+   },
+   {
+    "start": 3.68,
+    "end": 8.32,
+    "text": "pregunta sobre certificaciones internacionales y Áreas de Alto Valor Cultural, selecciona"
+   },
+   {
+    "start": 8.32,
+    "end": 11.6,
+    "text": "la alternativa correcta y presiona Validar respuesta."
+   }
+  ],
+  "words": [
+   {
+    "word": "Consolidemos",
+    "start": 0.0
+   },
+   {
+    "word": "lo",
+    "start": 0.78
+   },
+   {
+    "word": "aprendido",
+    "start": 0.92
+   },
+   {
+    "word": "en",
+    "start": 1.34
+   },
+   {
+    "word": "esta",
+    "start": 1.42
+   },
+   {
+    "word": "última",
+    "start": 1.6
+   },
+   {
+    "word": "etapa.",
+    "start": 1.82
+   },
+   {
+    "word": "Lee",
+    "start": 2.56
+   },
+   {
+    "word": "con",
+    "start": 3.06
+   },
+   {
+    "word": "atención",
+    "start": 3.16
+   },
+   {
+    "word": "la",
+    "start": 3.46
+   },
+   {
+    "word": "pregunta",
+    "start": 3.68
+   },
+   {
+    "word": "sobre",
+    "start": 3.94
+   },
+   {
+    "word": "certificaciones",
+    "start": 4.26
+   },
+   {
+    "word": "internacionales",
+    "start": 5.04
+   },
+   {
+    "word": "y",
+    "start": 6.04
+   },
+   {
+    "word": "Áreas",
+    "start": 6.18
+   },
+   {
+    "word": "de",
+    "start": 6.36
+   },
+   {
+    "word": "Alto",
+    "start": 6.56
+   },
+   {
+    "word": "Valor",
+    "start": 6.72
+   },
+   {
+    "word": "Cultural,",
+    "start": 6.92
+   },
+   {
+    "word": "selecciona",
+    "start": 7.78
+   },
+   {
+    "word": "la",
+    "start": 8.32
+   },
+   {
+    "word": "alternativa",
+    "start": 8.44
+   },
+   {
+    "word": "correcta",
+    "start": 8.98
+   },
+   {
+    "word": "y",
+    "start": 9.54
+   },
+   {
     "word": "presiona",
-    "start": 12.59
+    "start": 9.7
    },
    {
     "word": "Validar",
-    "start": 13.13
+    "start": 10.08
    },
    {
     "word": "respuesta.",
-    "start": 13.63
+    "start": 10.5
    }
   ],
-  "source": "pendiente: Loc_18"
+  "source": "Loc_18.mp3"
  },
  "cm-s19": {
-  "src": "audio/locuciones-pendientes/lamina-19-pendiente.mp3",
-  "duration": 14.17,
+  "src": "audio/locuciones-m3/lamina-19.mp3",
+  "duration": 10.031,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.53,
+    "start": 0.0,
+    "end": 3.84,
     "text": "Para finalizar las actividades de comprobación, analiza este dilema sobre el"
    },
    {
-    "start": 5.53,
-    "end": 11.34,
+    "start": 3.84,
+    "end": 8.44,
     "text": "protocolo ante hallazgos imprevistos en faena. Selecciona la conducta inmediata correcta"
    },
    {
-    "start": 11.34,
-    "end": 14.17,
+    "start": 8.44,
+    "end": 10.03,
     "text": "y valida tu respuesta."
    }
   ],
   "words": [
    {
     "word": "Para",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "finalizar",
-    "start": 0.69
+    "start": 0.3
    },
    {
     "word": "las",
-    "start": 1.29
+    "start": 0.82
    },
    {
     "word": "actividades",
-    "start": 1.57
+    "start": 0.96
    },
    {
     "word": "de",
-    "start": 2.27
+    "start": 1.46
    },
    {
     "word": "comprobación,",
-    "start": 2.51
+    "start": 1.64
    },
    {
     "word": "analiza",
-    "start": 3.63
+    "start": 2.62
    },
    {
     "word": "este",
-    "start": 4.13
+    "start": 2.98
    },
    {
     "word": "dilema",
-    "start": 4.47
+    "start": 3.14
    },
    {
     "word": "sobre",
-    "start": 4.91
+    "start": 3.52
    },
    {
     "word": "el",
-    "start": 5.3
+    "start": 3.72
    },
    {
     "word": "protocolo",
-    "start": 5.53
+    "start": 3.84
    },
    {
     "word": "ante",
-    "start": 6.13
+    "start": 4.36
    },
    {
     "word": "hallazgos",
-    "start": 6.47
+    "start": 4.48
    },
    {
     "word": "imprevistos",
-    "start": 7.07
+    "start": 4.88
    },
    {
     "word": "en",
-    "start": 7.77
+    "start": 5.48
    },
    {
     "word": "faena.",
-    "start": 8.0
+    "start": 5.6
    },
    {
     "word": "Selecciona",
-    "start": 8.76
+    "start": 6.44
    },
    {
     "word": "la",
-    "start": 9.41
+    "start": 6.98
    },
    {
     "word": "conducta",
-    "start": 9.65
+    "start": 7.1
    },
    {
     "word": "inmediata",
-    "start": 10.19
+    "start": 7.52
    },
    {
     "word": "correcta",
-    "start": 10.79
+    "start": 7.9
    },
    {
     "word": "y",
-    "start": 11.34
+    "start": 8.44
    },
    {
     "word": "valida",
-    "start": 11.52
+    "start": 8.64
    },
    {
     "word": "tu",
-    "start": 11.96
+    "start": 8.96
    },
    {
     "word": "respuesta.",
-    "start": 12.2
+    "start": 9.08
    }
   ],
-  "source": "pendiente: Loc_19"
+  "source": "Loc_19.mp3"
  },
  "cm-s20": {
-  "src": "audio/locuciones-pendientes/lamina-20-pendiente.mp3",
-  "duration": 27.81,
+  "src": "audio/locuciones-m3/lamina-20.mp3",
+  "duration": 20.898,
   "cues": [
    {
-    "start": 0.35,
-    "end": 5.84,
+    "start": 0.0,
+    "end": 4.5,
     "text": "¡Felicitaciones! Has completado con éxito el Programa de Formación Intercultural y"
    },
    {
-    "start": 5.84,
-    "end": 10.25,
+    "start": 4.5,
+    "end": 7.58,
     "text": "Derecho Indígena de Arauco. A lo largo de estas tres cápsulas"
    },
    {
-    "start": 10.25,
-    "end": 15.95,
+    "start": 7.58,
+    "end": 12.2,
     "text": "comprendiste la cosmovisión mapuche, nuestra política de relacionamiento y las medidas"
    },
    {
-    "start": 15.95,
-    "end": 20.71,
+    "start": 12.2,
+    "end": 16.0,
     "text": "concretas para resguardar las Áreas de Alto Valor Cultural en faena."
    },
    {
-    "start": 20.71,
-    "end": 27.81,
+    "start": 16.0,
+    "end": 20.9,
     "text": "Tu compromiso diario garantiza operaciones forestales respetuosas, seguras y sostenibles."
    }
   ],
   "words": [
    {
     "word": "¡Felicitaciones!",
-    "start": 0.35
+    "start": 0.0
    },
    {
     "word": "Has",
-    "start": 1.63
+    "start": 1.44
    },
    {
     "word": "completado",
-    "start": 1.92
+    "start": 1.62
    },
    {
     "word": "con",
-    "start": 2.57
+    "start": 2.1
    },
    {
     "word": "éxito",
-    "start": 2.85
+    "start": 2.24
    },
    {
     "word": "el",
-    "start": 3.24
+    "start": 2.58
    },
    {
     "word": "Programa",
-    "start": 3.48
+    "start": 2.66
    },
    {
     "word": "de",
-    "start": 4.02
+    "start": 2.96
    },
    {
     "word": "Formación",
-    "start": 4.26
+    "start": 3.14
    },
    {
     "word": "Intercultural",
-    "start": 4.86
+    "start": 3.56
    },
    {
     "word": "y",
-    "start": 5.66
+    "start": 4.18
    },
    {
     "word": "Derecho",
-    "start": 5.84
+    "start": 4.5
    },
    {
     "word": "Indígena",
-    "start": 6.34
+    "start": 4.7
    },
    {
     "word": "de",
-    "start": 6.88
+    "start": 5.24
    },
    {
     "word": "Arauco.",
-    "start": 7.12
+    "start": 5.32
    },
    {
     "word": "A",
-    "start": 7.93
+    "start": 6.2
    },
    {
     "word": "lo",
-    "start": 8.11
+    "start": 6.36
    },
    {
     "word": "largo",
-    "start": 8.35
+    "start": 6.42
    },
    {
     "word": "de",
-    "start": 8.74
+    "start": 6.62
    },
    {
     "word": "estas",
-    "start": 8.97
+    "start": 6.78
    },
    {
     "word": "tres",
-    "start": 9.36
+    "start": 6.94
    },
    {
     "word": "cápsulas",
-    "start": 9.7
+    "start": 7.16
    },
    {
     "word": "comprendiste",
-    "start": 10.25
+    "start": 7.58
    },
    {
     "word": "la",
-    "start": 11.0
+    "start": 8.18
    },
    {
     "word": "cosmovisión",
-    "start": 11.23
+    "start": 8.32
    },
    {
     "word": "mapuche,",
-    "start": 11.94
+    "start": 8.86
    },
    {
     "word": "nuestra",
-    "start": 12.8
+    "start": 9.7
    },
    {
     "word": "política",
-    "start": 13.3
+    "start": 9.9
+   },
+   {
+    "word": "de",
+    "start": 10.34
+   },
+   {
+    "word": "relacionamiento",
+    "start": 10.58
+   },
+   {
+    "word": "y",
+    "start": 11.32
+   },
+   {
+    "word": "las",
+    "start": 11.78
+   },
+   {
+    "word": "medidas",
+    "start": 11.92
+   },
+   {
+    "word": "concretas",
+    "start": 12.2
+   },
+   {
+    "word": "para",
+    "start": 12.8
+   },
+   {
+    "word": "resguardar",
+    "start": 12.96
+   },
+   {
+    "word": "las",
+    "start": 13.5
+   },
+   {
+    "word": "Áreas",
+    "start": 13.64
    },
    {
     "word": "de",
     "start": 13.84
    },
    {
-    "word": "relacionamiento",
-    "start": 14.08
-   },
-   {
-    "word": "y",
-    "start": 14.99
-   },
-   {
-    "word": "las",
-    "start": 15.17
-   },
-   {
-    "word": "medidas",
-    "start": 15.45
-   },
-   {
-    "word": "concretas",
-    "start": 15.95
-   },
-   {
-    "word": "para",
-    "start": 16.55
-   },
-   {
-    "word": "resguardar",
-    "start": 16.88
-   },
-   {
-    "word": "las",
-    "start": 17.53
-   },
-   {
-    "word": "Áreas",
-    "start": 17.82
-   },
-   {
-    "word": "de",
-    "start": 18.21
-   },
-   {
     "word": "Alto",
-    "start": 18.44
+    "start": 14.04
    },
    {
     "word": "Valor",
-    "start": 18.78
+    "start": 14.2
    },
    {
     "word": "Cultural",
-    "start": 19.17
+    "start": 14.44
    },
    {
     "word": "en",
-    "start": 19.72
+    "start": 14.84
    },
    {
     "word": "faena.",
-    "start": 19.95
+    "start": 15.06
    },
    {
     "word": "Tu",
-    "start": 20.71
+    "start": 16.0
    },
    {
     "word": "compromiso",
-    "start": 20.95
+    "start": 16.14
    },
    {
     "word": "diario",
-    "start": 21.6
+    "start": 16.62
    },
    {
     "word": "garantiza",
-    "start": 22.04
+    "start": 16.92
    },
    {
     "word": "operaciones",
-    "start": 22.64
+    "start": 17.44
    },
    {
     "word": "forestales",
-    "start": 23.34
+    "start": 17.9
    },
    {
     "word": "respetuosas,",
-    "start": 23.99
+    "start": 18.42
    },
    {
     "word": "seguras",
-    "start": 25.06
+    "start": 19.42
    },
    {
     "word": "y",
-    "start": 25.56
+    "start": 19.84
    },
    {
     "word": "sostenibles.",
-    "start": 25.74
+    "start": 20.06
    }
   ],
-  "source": "pendiente: Loc_20"
+  "source": "Loc_20.mp3"
  }
 };

@@ -2,7 +2,7 @@ window.MAPUCHE_DATA={
  "course": "arauco-cultura-mapuche-c3-v01",
  "title": "Protección de Valores Culturales",
  "source_total": 20,
- "revision": "m3-v01",
+ "revision": "m3-v02",
  "brand": "Academia Arauco",
  "subtitle": "Formación intercultural y Derecho Indígena",
  "lesson_label": "CÁPSULA 3",
@@ -50,7 +50,7 @@ window.MAPUCHE_DATA={
    "view": "m2",
    "mode": "informative",
    "reveal_all": true,
-   "avatar": false,
+   "avatar": true,
    "avatar_pending": true,
    "m2": {
     "p1": "En este módulo final conoceremos qué es un valor cultural, cómo proteger sitios sagrados y cursos de agua, qué exigen las certificaciones internacionales FSC y PEFC, y qué protocolo estricto seguir ante hallazgos imprevistos."
@@ -172,7 +172,7 @@ window.MAPUCHE_DATA={
    "view": "m2",
    "mode": "informative",
    "reveal_all": false,
-   "avatar": false,
+   "avatar": true,
    "avatar_pending": true,
    "m2": {
     "p1": "En nuestro entorno forestal conviven sitios de profunda significación ancestral como: el Eltuwe Mapu o cementerio, el Ngüllatuwe para rogativas comunitarias, el Paliwe para el tradicional juego de palín y los cerros sagrados Treng-Treng.",
@@ -416,7 +416,7 @@ window.MAPUCHE_DATA={
    "view": "m2",
    "mode": "informative",
    "reveal_all": false,
-   "avatar": false,
+   "avatar": true,
    "avatar_pending": true,
    "m2": {
     "p1": "El manejo forestal sostenible va mucho más allá de cuidar plantaciones y bosques nativos: exige un compromiso activo con el patrimonio social y cultural de los territorios.",
@@ -654,7 +654,7 @@ window.MAPUCHE_DATA={
    "view": "m2",
    "mode": "informative",
    "reveal_all": false,
-   "avatar": false,
+   "avatar": true,
    "avatar_pending": true,
    "m2": {
     "p1": "Durante la apertura de un camino, un operador observa trozos de alfarería antigua en el talud. De inmediato, apaga la máquina, evita tocar los elementos, delimita el sector con cinta visible y avisa por radio a su supervisor con la coordenada GPS.",
@@ -790,5 +790,5 @@ window.MAPUCHE_DATA={
    }
   }
  ],
- "audio_status": "provisional-silencio"
+ "audio_status": "locuciones-reales"
 };
