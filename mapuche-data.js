@@ -2,7 +2,7 @@ window.MAPUCHE_DATA={
  "course": "arauco-cultura-mapuche-c3-v01",
  "title": "Protección de Valores Culturales",
  "source_total": 20,
- "revision": "m3-v02",
+ "revision": "m3-v03",
  "brand": "Academia Arauco",
  "subtitle": "Formación intercultural y Derecho Indígena",
  "lesson_label": "CÁPSULA 3",
@@ -758,27 +758,27 @@ window.MAPUCHE_DATA={
     {
      "title": "1. Territorio Vivo",
      "text": "Respetar la relación armónica entre personas, naturaleza y energías ancestrales (Kümefelen).",
-     "icon": "leaf"
+     "icon": "arbol"
     },
     {
      "title": "2. Reconocimiento Mutuo",
      "text": "Validar a las autoridades tradicionales (Longko) y practicar el diálogo de buena fe.",
-     "icon": "people"
+     "icon": "manos"
     },
     {
      "title": "3. Gestión de AAVC",
      "text": "Cumplir con las restricciones operacionales en las 37 áreas protegidas de Arauco.",
-     "icon": "mountain"
+     "icon": "mapa"
     },
     {
      "title": "4. Protección de Aguas y Sitios",
      "text": "Jamás alterar Menoko, Trayenko ni cementerios ancestrales (Eltuwe Mapu).",
-     "icon": "water"
+     "icon": "gota"
     },
     {
      "title": "5. Regla de Oro ante Hallazgos",
      "text": "Detener la faena, no manipular elementos, delimitar el perímetro y notificar.",
-     "icon": "shield"
+     "icon": "alto"
     }
    ],
    "lead": "Decálogo de Buenas Prácticas en el Territorio:",

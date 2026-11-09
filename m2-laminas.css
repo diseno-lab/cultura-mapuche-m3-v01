@@ -218,3 +218,20 @@ html[data-reduced-motion=true] .m3-anim{animation:none}
 .m3-s08 .m2-cols .v17-frame>img{height:clamp(140px,22.5vh,210px)}
 .m3-s12 .m2-bullets li{padding:5px 11px}
 @media (max-width:760px){.m3-closing .closing-summary-grid{grid-template-columns:1fr}}
+
+/* ===== v03 · QA 9-nov-2026 ===== */
+/* Íconos propios */
+.m3-sym svg{width:20px;height:20px}
+.closing-principle .m3-sym svg{width:22px;height:22px}
+/* L3 y L6: elementos destacados abajo, tipo pie */
+#stage>.scene:has(.m3-s03),#stage>.scene:has(.m3-s06){align-self:stretch;margin-block:0;flex:1 1 auto;display:flex;flex-direction:column}
+#stage>.scene:has(.m3-s03)>.scene-parallax,#stage>.scene:has(.m3-s06)>.scene-parallax{flex:1 1 auto;display:flex;flex-direction:column}
+.m3-s03,.m3-s06{display:flex;flex-direction:column;flex:1 1 auto}
+.m3-s03>.speech-reveal:last-child,.m3-s06>.speech-reveal:last-child{margin-top:auto;padding-top:14px}
+.m3-s03 .m3-row,.m3-s06 .m3-row{max-width:none;margin-top:0;padding:12px 16px;border-radius:14px;background:linear-gradient(90deg,#1b1813e6,#1b181399 70%,#1b181300);border-top:1px solid #e1c45c55}
+/* L16: título, flecha y logo al centro de su columna */
+.m3-center{justify-items:center;text-align:center}
+.m3-center .m2-result{justify-items:center}.m3-center .m2-arrow{margin-left:0}
+.m3-center .m3-logo-wrap{justify-items:center}
+[data-appearance=light] .m3-s03 .m3-row,[data-appearance=light] .m3-s06 .m3-row{background:linear-gradient(90deg,#fffdf6ee,#fffdf699 70%,#fffdf600)}
+.m3-s06>.speech-reveal:last-child{padding-top:8px}
